@@ -143,13 +143,13 @@ flowchart LR
     T3 & T4 -.change events.-> RT -.-> E
 ```
 
-How one applicant's interview runs (admin clicks the applicant badge → 면접중, "interviewing", and the evaluation form opens; interviewers raise a hand → ask → score and take notes → submit; admin opens the final vote → popup on every screen → closes the vote → Pass/Hold/Fail ratios revealed; admin clicks the badge → 면접 완료, "done"):
+How one applicant's interview runs:
 
 ```
-관리자: 지원자 배지 클릭 → 면접중 (평가 폼 열림)
-면접관: 손들기 → 질문 → 점수·메모 → 제출
-관리자: 최종 투표 열기 → 모든 화면에 팝업 → 마감 → 합격·보류·불합격 비율 공개
-관리자: 배지 클릭 → 면접 완료
+Admin:       click applicant badge → Interviewing (evaluation form opens)
+Interviewer: raise hand → ask → score · notes → submit
+Admin:       open final vote → popup on every screen → close → reveal Pass · Hold · Fail ratios
+Admin:       click badge → Done
 ```
 
 ---
