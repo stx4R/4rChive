@@ -165,9 +165,9 @@ slerp(q₀,q₁,t) = ( sin((1−t)Ω)·q₀ + sin(tΩ)·q₁ ) / sin Ω,   Ω = 
 ### 结构
 
 ```
-payload (Group)     ← 회전 수학이 계산한 R 이 그대로 들어간다
-  └ fixed (Group)   ← MODEL_AXIS_FIX · 배율 · 중심이동. 상수, 한 번만 적용
-       └ GLB 씬      (로드 실패 시 삼각대로 자동 폴백, 화면에 표시)
+payload (Group)     ← 旋转数学算出的 R 直接放进这里
+  └ fixed (Group)   ← MODEL_AXIS_FIX · 缩放 · 中心平移。常量，只应用一次
+       └ GLB 场景     （加载失败时自动回退到三脚架模型，并在画面上提示）
 ```
 
 ```mermaid
