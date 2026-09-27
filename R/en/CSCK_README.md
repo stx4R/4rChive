@@ -151,12 +151,12 @@ flowchart TB
     M -->|Admin| U[Lock keypad] -->|Server check · HttpOnly cookie| D[Dashboard]
 ```
 
-Data layer (화면 코드 = screen code; 환경변수 있음 / 없음 = environment variables set / not set; 원격 테이블 · 구독 + 폴링 = remote tables · subscription + polling; 저장 이벤트 + 폴링 = storage events + polling; 헤더 경고 = header warning):
+Data layer:
 
 ```
-                ┌─ 환경변수 있음 → Supabase (원격 테이블 · 구독 + 폴링)
-화면 코드 ──→ lib/attendance.ts ─┤
-                └─ 환경변수 없음 → localStorage (저장 이벤트 + 폴링) + 헤더 경고
+                                   ┌─ env vars set → Supabase (remote tables · subscription + polling)
+Screen code ──→ lib/attendance.ts ─┤
+                                   └─ env vars not set → localStorage (storage events + polling) + header warning
 ```
 
 ---
