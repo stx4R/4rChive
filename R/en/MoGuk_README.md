@@ -169,15 +169,15 @@ flowchart LR
     P --- Client
 ```
 
-Processing order for a single vote (logged in? if not, reject → banned or timed out? if so, reject → is the agenda item open? if not, "투표가 마감되었습니다" ("Voting is closed") → already voted? if so, reject → INSERT, with the `(agenda_id, user_id)` unique constraint as the last line of defense):
+Processing order for a single vote:
 
 ```
-submit_vote(안건, 선택)
- ├─ 로그인했는가        아니면 거절
- ├─ 차단·타임아웃인가    맞으면 거절
- ├─ 안건이 열려 있는가   아니면 "투표가 마감되었습니다"
- ├─ 이미 투표했는가      맞으면 거절
- └─ INSERT  ── (agenda_id, user_id) 유일 제약이 마지막 방어선
+submit_vote(agenda, choice)
+ ├─ logged in?               if not, reject
+ ├─ banned · timed out?      if so, reject
+ ├─ agenda item open?        if not, "Voting is closed"
+ ├─ already voted?           if so, reject
+ └─ INSERT  ── (agenda_id, user_id) unique constraint is the last line of defense
 ```
 
 ---
