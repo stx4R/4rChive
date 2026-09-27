@@ -139,12 +139,12 @@ flowchart TB
     T3 --> MEM[(In-memory array<br/>lost on refresh)]
 ```
 
-Hash-chain block structure (블록 = block, 본문 = message body, 시각 = timestamp):
+Hash-chain block structure:
 
 ```
-블록 0: prev = 000…000 (64자)      hash = SHA256(prev + 본문 + 시각)
-블록 1: prev = 블록 0의 hash        hash = SHA256(prev + 본문 + 시각)
-블록 2: prev = 블록 1의 hash        …
+Block 0: prev = 000…000 (64 chars)   hash = SHA256(prev + body + time)
+Block 1: prev = hash of block 0      hash = SHA256(prev + body + time)
+Block 2: prev = hash of block 1      …
 ```
 
 ---
