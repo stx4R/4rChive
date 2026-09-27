@@ -176,7 +176,7 @@
 
 | 구분 | 링크 |
 |---|---|
-| GitHub 저장소 | [stx4R/Fly](https://github.com/stx4R/Fly) (비공개) |
+| GitHub 저장소 | [stx4R/Fly](https://github.com/stx4R/Fly) |
 | 배포 URL | https://stx4r.github.io/Fly/ |
 | 단계별 문서 | `docs/stage3-calibration.md` ~ `docs/stage8-web-v1.md` (6편) |
 | 데이터 출처 | [neuPrint](https://neuprint.janelia.org) hemibrain v1.2.1 |
