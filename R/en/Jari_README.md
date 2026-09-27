@@ -149,11 +149,11 @@ flowchart TB
     H -->|No| I[Show seating chart]
 ```
 
-Example of one round (A wants B's seat, B wants C's, and C wants A's, so A → B → C → A forms a cycle and all three move to the seats they want at the same time and drop out):
+Example of one round:
 
 ```
-A는 B의 자리를, B는 C의 자리를, C는 A의 자리를 원한다
-→ A → B → C → A 사이클 → 셋이 동시에 원하는 자리로 이동하고 빠진다
+A wants B's seat, B wants C's seat, C wants A's seat
+→ cycle A → B → C → A → all three move to the seats they want at once and drop out
 ```
 
 ---
