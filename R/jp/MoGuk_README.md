@@ -1,6 +1,6 @@
 # MoGuk
 
-<p align="center"><img src="../assets/kr/MoGuk/cover.png" alt="MoGuk のメイン画像" width="100%"></p>
+<p align="center"><img src="../assets/jp/MoGuk/cover.png" alt="MoGuk のメイン画像" width="100%"></p>
 
 > 議員130人が参加した第3回オリャン模擬国会の会員登録・電子投票・電光掲示板・運営ツールを1つにまとめた公式 Web サービス
 
@@ -33,10 +33,10 @@
 
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/MoGuk/home.png" width="90%" alt="メイン画面"></p>
+<p align="center"><img src="../assets/jp/MoGuk/home.png" width="90%" alt="メイン画面"></p>
 <p align="center">
-  <img src="../assets/kr/MoGuk/vote.png" width="49%" alt="議案の投票画面">
-  <img src="../assets/kr/MoGuk/board.png" width="49%" alt="表決の電光掲示板">
+  <img src="../assets/jp/MoGuk/vote.png" width="49%" alt="議案の投票画面">
+  <img src="../assets/jp/MoGuk/board.png" width="49%" alt="表決の電光掲示板">
 </p>
 <p align="center"><sub>ローカルビルドでキャプチャ。投票・電光掲示板の画面は、Supabase の代わりにダミーデータを入れてレンダリングした（議案名・議員名は例）。</sub></p>
 

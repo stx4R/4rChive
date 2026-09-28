@@ -1,6 +1,6 @@
 # MoGuk
 
-<p align="center"><img src="../assets/kr/MoGuk/cover.png" alt="MoGuk 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/MoGuk/cover.png" alt="MoGuk 封面图" width="100%"></p>
 
 > 为130名议员参加的第三届 Oryang 模拟国会，把注册、电子投票、表决显示屏和运营工具整合在一起的官方 Web 服务
 
@@ -33,10 +33,10 @@ Oryang 模拟国会是校内12个社团联合举办的青少年模拟国会。�
 
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/MoGuk/home.png" width="90%" alt="首页界面"></p>
+<p align="center"><img src="../assets/ch/MoGuk/home.png" width="90%" alt="首页界面"></p>
 <p align="center">
-  <img src="../assets/kr/MoGuk/vote.png" width="49%" alt="议案投票界面">
-  <img src="../assets/kr/MoGuk/board.png" width="49%" alt="表决显示屏">
+  <img src="../assets/ch/MoGuk/vote.png" width="49%" alt="议案投票界面">
+  <img src="../assets/ch/MoGuk/board.png" width="49%" alt="表决显示屏">
 </p>
 <p align="center"><sub>基于本地构建截图。投票和显示屏界面用假数据代替 Supabase 进行渲染（议案名、议员名均为示例）。</sub></p>
 

@@ -1,6 +1,6 @@
 # MoGuk
 
-<p align="center"><img src="../assets/kr/MoGuk/cover.png" alt="MoGuk cover image" width="100%"></p>
+<p align="center"><img src="../assets/en/MoGuk/cover.png" alt="MoGuk cover image" width="100%"></p>
 
 > The official web service of the 3rd Oryang Mock National Assembly, with 130 participating members, bringing sign-up, electronic voting, the vote board and operations tools together in one place
 
@@ -33,10 +33,10 @@ The Oryang Mock National Assembly is a youth mock parliament run jointly by 12 s
 
 ## 3. Key Features & Contributions
 
-<p align="center"><img src="../assets/kr/MoGuk/home.png" width="90%" alt="Main screen"></p>
+<p align="center"><img src="../assets/en/MoGuk/home.png" width="90%" alt="Main screen"></p>
 <p align="center">
-  <img src="../assets/kr/MoGuk/vote.png" width="49%" alt="Agenda voting screen">
-  <img src="../assets/kr/MoGuk/board.png" width="49%" alt="Vote board">
+  <img src="../assets/en/MoGuk/vote.png" width="49%" alt="Agenda voting screen">
+  <img src="../assets/en/MoGuk/board.png" width="49%" alt="Vote board">
 </p>
 <p align="center"><sub>Captured from a local build. The voting and vote board screens were rendered with mock data instead of Supabase (agenda titles and member names are examples).</sub></p>
 
