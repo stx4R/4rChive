@@ -1,6 +1,6 @@
 # InfGain.
 
-<p align="center"><img src="../assets/kr/InfGain/cover.png" alt="InfGain. 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/InfGain/cover.png" alt="InfGain. 封面图" width="100%"></p>
 
 > 用 Play Tennis 的14个样本手算全部熵与信息增益，验证高中对数函数如何让决策树选出“最好的问题”的代数探究。结果做成了用颜色标示熵的立体树模型
 
@@ -81,7 +81,7 @@
 
 ### 立体模型
 
-<p align="center"><img src="../assets/kr/InfGain/model.png" width="90%" alt="决策树立体模型渲染图"></p>
+<p align="center"><img src="../assets/ch/InfGain/model.png" width="90%" alt="决策树立体模型渲染图"></p>
 <p align="center"><sub>渲染了本地保存的 Blender 模型（底座上的姓名、学号文字已隐藏）。红球是需要继续分裂的内部节点，蓝球是已完全归为一类的叶节点</sub></p>
 
 | 模型元素 | 对应 |

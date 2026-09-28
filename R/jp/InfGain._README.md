@@ -1,6 +1,6 @@
 # InfGain.
 
-<p align="center"><img src="../assets/kr/InfGain/cover.png" alt="InfGain. 代表画像" width="100%"></p>
+<p align="center"><img src="../assets/jp/InfGain/cover.png" alt="InfGain. 代表画像" width="100%"></p>
 
 > 高校で習う対数関数が、決定木で「最も良い質問」をどう選ぶのかを、Play Tennisの14サンプルでエントロピーと情報利得をすべて手計算して確かめた代数学の探究。結果は、エントロピーを色で塗り分けた立体の木の模型にまとめた
 
@@ -81,7 +81,7 @@
 
 ### 立体模型
 
-<p align="center"><img src="../assets/kr/InfGain/model.png" width="90%" alt="決定木の立体模型のレンダリング"></p>
+<p align="center"><img src="../assets/jp/InfGain/model.png" width="90%" alt="決定木の立体模型のレンダリング"></p>
 <p align="center"><sub>ローカルに残っているBlenderモデルをレンダリングした（台座の氏名・学籍番号の文字は非表示）。赤い球はさらに分岐が必要な内部ノード、青い球は1種類に分類し終えた葉ノード</sub></p>
 
 | 模型の要素 | 対応 |
