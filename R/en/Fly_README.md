@@ -1,6 +1,6 @@
 # Fly
 
-<p align="center"><img src="../assets/kr/Fly/cover.png" alt="Fly cover image" width="100%"></p>
+<p align="center"><img src="../assets/en/Fly/cover.png" alt="Fly cover image" width="100%"></p>
 
 > A research project that taught Tetris versus play to a network constrained by the wiring of the fruit fly brain connectome (hemibrain), then put the result on the web so anyone can play against it
 
@@ -41,7 +41,7 @@ The starting question was "could a real fruit fly's brain wiring be of any use f
 
 ## 3. Key Features & Contributions
 
-<p align="center"><img src="../assets/kr/Fly/versus.png" width="90%" alt="Human vs. fruit fly match screen"></p>
+<p align="center"><img src="../assets/en/Fly/versus.png" width="90%" alt="Human vs. fruit fly match screen"></p>
 <p align="center"><sub>Captured from the deployed site. The human is on the left, the trained C0 model on the right, playing on the same engine with the same piece sequence. KEYS·LOG on the right work backward from the placement the fly chose to the button inputs that produce it</sub></p>
 
 ### Connectome Extraction (Stage 1)
@@ -70,7 +70,7 @@ The starting question was "could a real fruit fly's brain wiring be of any use f
 
 ### Versus Site (Stage 8)
 
-<p align="center"><img src="../assets/kr/Fly/decision.png" width="90%" alt="Decision explorer screen"></p>
+<p align="center"><img src="../assets/en/Fly/decision.png" width="90%" alt="Decision explorer screen"></p>
 <p align="center"><sub>Decision explorer. The window-averaged responses of the 107 DNs (center) when the 51 candidates for one move are fed into the network, and a bump chart linking the model ranking to the teacher ranking (right)</sub></p>
 
 - **Versus**: The human plays with the keyboard; the fly moves every 150 ms. Inference runs once per piece, asynchronously in a worker.
@@ -90,7 +90,7 @@ The starting question was "could a real fruit fly's brain wiring be of any use f
 
 ### Quantitative Results
 
-<p align="center"><img src="../assets/kr/Fly/compare.png" width="90%" alt="Condition comparison screen"></p>
+<p align="center"><img src="../assets/en/Fly/compare.png" width="90%" alt="Condition comparison screen"></p>
 <p align="center"><sub>Condition comparison. Play metrics put the fly, the teacher and random side by side; ranking metrics put before training, after training and chance side by side</sub></p>
 
 **Final model C0 (stage 7 A-4′; test set of 1,453 decisions · 40.6 candidates on average; play over 20 games × 1000 pieces · with garbage injection)**

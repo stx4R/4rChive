@@ -1,6 +1,6 @@
 # Fly
 
-<p align="center"><img src="../assets/kr/Fly/cover.png" alt="Fly 代表画像" width="100%"></p>
+<p align="center"><img src="../assets/jp/Fly/cover.png" alt="Fly 代表画像" width="100%"></p>
 
 > ショウジョウバエの脳のコネクトーム（hemibrain）の配線を制約としたネットワークにテトリスの対戦を教え、その結果をWebで公開して人間が直接対戦できるようにした研究型プロジェクト
 
@@ -41,7 +41,7 @@
 
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/Fly/versus.png" width="90%" alt="人間 vs ショウジョウバエの対戦画面"></p>
+<p align="center"><img src="../assets/jp/Fly/versus.png" width="90%" alt="人間 vs ショウジョウバエの対戦画面"></p>
 <p align="center"><sub>公開サイトでキャプチャ。左が人間、右が学習済みのC0モデル。同じエンジン、同じピース順で打つ。右のKEYS・LOGは、ショウジョウバエが選んだ配置をボタン入力に逆算して表示している</sub></p>
 
 ### コネクトームの抽出（第1段階）
@@ -70,7 +70,7 @@
 
 ### 対戦Web（第8段階）
 
-<p align="center"><img src="../assets/kr/Fly/decision.png" width="90%" alt="決定の探索画面"></p>
+<p align="center"><img src="../assets/jp/Fly/decision.png" width="90%" alt="決定の探索画面"></p>
 <p align="center"><sub>決定の探索。1手分の候補51個をネットワークに入力して得たDN 107個のウィンドウ平均（中央）と、モデルの順位と教師の順位を結ぶbump chart（右）</sub></p>
 
 - **対戦**：人間はキーボードで、ショウジョウバエは150 ms間隔で打つ。推論はピースごとに1回、ワーカーで非同期に回す。
@@ -90,7 +90,7 @@
 
 ### 定量的成果
 
-<p align="center"><img src="../assets/kr/Fly/compare.png" width="90%" alt="条件比較の画面"></p>
+<p align="center"><img src="../assets/jp/Fly/compare.png" width="90%" alt="条件比較の画面"></p>
 <p align="center"><sub>条件比較。プレイの指標はショウジョウバエ・教師・ランダムを、順位の指標は学習前・学習後・偶然を並べた</sub></p>
 
 **最終モデルC0（第7段階 A-4′、テスト1,453決定 · 候補は平均40.6個、プレイは20ゲーム × 1000ピース · ガベージ注入あり）**
