@@ -1,6 +1,6 @@
 # L-INK Interview
 
-<p align="center"><img src="../assets/kr/L-INK-Interview/cover.png" alt="L-INK-Interview のメイン画像" width="100%"></p>
+<p align="center"><img src="../assets/jp/L-INK-Interview/cover.png" alt="L-INK-Interview のメイン画像" width="100%"></p>
 
 > 部活動の新入部員の面接を複数の面接官が1つの画面で進め、点数・質問の順番・合否の投票をリアルタイムでそろえる面接評価 Web アプリ「L-INK Eval」
 
@@ -31,7 +31,7 @@ L-INK は、大田大新高等学校の文理融合の部活動である。新�
 
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/L-INK-Interview/main.png" width="90%" alt="面接の進行画面"></p>
+<p align="center"><img src="../assets/jp/L-INK-Interview/main.png" width="90%" alt="面接の進行画面"></p>
 <p align="center"><sub>ローカルビルドでキャプチャ。応募者の情報・チャットは、すべて架空のデータに置き換えてレンダリングした。</sub></p>
 
 ### 実装した機能

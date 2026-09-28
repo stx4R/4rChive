@@ -1,6 +1,6 @@
 # L-INK Interview
 
-<p align="center"><img src="../assets/kr/L-INK-Interview/cover.png" alt="L-INK-Interview cover image" width="100%"></p>
+<p align="center"><img src="../assets/en/L-INK-Interview/cover.png" alt="L-INK-Interview cover image" width="100%"></p>
 
 > 「L-INK Eval」, an interview evaluation web app that lets several interviewers run club recruitment interviews on one screen and keep scores, question order and the pass vote in sync in real time
 
@@ -31,7 +31,7 @@ L-INK is a humanities–science convergence club at Daejeon Daeshin High School.
 
 ## 3. Key Features & Contributions
 
-<p align="center"><img src="../assets/kr/L-INK-Interview/main.png" width="90%" alt="Interview screen"></p>
+<p align="center"><img src="../assets/en/L-INK-Interview/main.png" width="90%" alt="Interview screen"></p>
 <p align="center"><sub>Captured from a local build. All applicant information and chat messages were replaced with fictional data for rendering.</sub></p>
 
 ### Implemented Features

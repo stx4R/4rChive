@@ -1,6 +1,6 @@
 # L-INK Interview
 
-<p align="center"><img src="../assets/kr/L-INK-Interview/cover.png" alt="L-INK-Interview 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/L-INK-Interview/cover.png" alt="L-INK-Interview 封面图" width="100%"></p>
 
 > 让多位面试官在同一界面上进行社团新成员面试，并实时同步评分、提问顺序和录取投票的面试评价 Web 应用「L-INK Eval」
 
@@ -31,7 +31,7 @@ L-INK 是大田大新高中的文理融合社团。新成员面试时，多位�
 
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/L-INK-Interview/main.png" width="90%" alt="面试进行界面"></p>
+<p align="center"><img src="../assets/ch/L-INK-Interview/main.png" width="90%" alt="面试进行界面"></p>
 <p align="center"><sub>基于本地构建截图。申请者信息和聊天内容全部替换为虚构数据后渲染。</sub></p>
 
 ### 已实现功能
