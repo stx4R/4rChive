@@ -1,6 +1,6 @@
 # Sirius
 
-<p align="center"><img src="../assets/kr/Sirius/cover.png" alt="Sirius 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/Sirius/cover.png" alt="Sirius 封面图" width="100%"></p>
 
 > 把概率与统计写进判定规则而非说明文字的像素风桌游。平衡性用固定种子的蒙特卡洛模拟验证，并以面向展位笔记本电脑的单个 exe 发布
 
@@ -35,10 +35,10 @@
 
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/Sirius/game.png" width="90%" alt="游戏画面"></p>
+<p align="center"><img src="../assets/ch/Sirius/game.png" width="90%" alt="游戏画面"></p>
 <p align="center">
-  <img src="../assets/kr/Sirius/wager.png" width="49%" alt="ORION'S WAGER 预测下注">
-  <img src="../assets/kr/Sirius/report-round1.png" width="49%" alt="CONSTELLATION LOG 统计报告">
+  <img src="../assets/ch/Sirius/wager.png" width="49%" alt="ORION'S WAGER 预测下注">
+  <img src="../assets/ch/Sirius/report-round1.png" width="49%" alt="CONSTELLATION LOG 统计报告">
 </p>
 <p align="center"><sub>用仓库中的自动截图工具在本地截取（固定种子）。上：游戏画面；下左：预测下注；右：周期结束时的统计报告</sub></p>
 
