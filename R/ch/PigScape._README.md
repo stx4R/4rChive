@@ -1,6 +1,6 @@
 # PigScape.
 
-<p align="center"><img src="../assets/kr/PigScape/cover.png" alt="PigScape. 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/PigScape/cover.png" alt="PigScape. 封面图" width="100%"></p>
 
 > 以团队项目形式策划了集基础代谢计算、减肥常识测验和个人记录页面于一体的减肥助手网站 「돼탈출」（意为“小猪大逃脱”），并在技术部分先后三次重做的项目
 
@@ -33,7 +33,7 @@
 
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/PigScape/home.png" width="80%" alt="「돼탈출」首页"></p>
+<p align="center"><img src="../assets/ch/PigScape/home.png" width="80%" alt="「돼탈출」首页"></p>
 <p align="center"><sub>本地截图（第 3 版 ReReWork）。三张 BMI 区间卡片在鼠标悬停或点击时会翻转，显示对应区间的运动建议</sub></p>
 
 | 页面 | 功能 |
@@ -45,7 +45,7 @@
 | 我的页面 | 登录后的仪表盘：BMI 变化趋势图、健康指标、今日目标进度、成就徽章 |
 | 高级版 | 3 种订阅方案，以及把部分订阅费转为奖金的挑战赛构想 |
 
-<p align="center"><img src="../assets/kr/PigScape/bmr.png" width="80%" alt="BMR 计算结果"></p>
+<p align="center"><img src="../assets/ch/PigScape/bmr.png" width="80%" alt="BMR 计算结果"></p>
 <p align="center"><sub>BMR 计算结果（示例输入：男性 · 17 岁 · 175 cm · 72 kg）。用条上的三个区间和两个箭头展示与年龄段平均值的差距</sub></p>
 
 ### BMR 计算方式
@@ -127,7 +127,7 @@
 | 部署网址 | （待确认） |
 | 交付物 | 静态网页 6 页（ReReWork），Flask 版本 2 个，Logo 与运动视频 8 个，各页面的策划规格 |
 
-<p align="center"><img src="../assets/kr/PigScape/quiz.png" width="48%" alt="「돼지니어스」结果"> <img src="../assets/kr/PigScape/mypage.png" width="48%" alt="我的页面"></p>
+<p align="center"><img src="../assets/ch/PigScape/quiz.png" width="48%" alt="「돼지니어스」结果"> <img src="../assets/ch/PigScape/mypage.png" width="48%" alt="我的页面"></p>
 <p align="center"><sub>左：「돼지니어스」结果（每题的正确答案与解析）。右：我的页面仪表盘（固定的模拟数据，截图时把姓名改成了“用户”）</sub></p>
 
 ---
