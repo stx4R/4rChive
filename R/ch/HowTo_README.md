@@ -1,6 +1,6 @@
 # HowTo
 
-<p align="center"><img src="../assets/kr/HowTo/cover.png" alt="HowTo 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/HowTo/cover.png" alt="HowTo 封面图" width="100%"></p>
 
 > 上传一张垃圾照片，就能识别材质、给出分类投放步骤和演示视频的 Web 应用「어떻게?」（意为“怎么办？”）
 
@@ -33,9 +33,9 @@
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
 <p align="center">
-  <img src="../assets/kr/HowTo/upload.png" width="32%" alt="照片上传界面">
-  <img src="../assets/kr/HowTo/residue-check.png" width="32%" alt="残留物确认弹窗">
-  <img src="../assets/kr/HowTo/result.png" width="32%" alt="投放方法指引界面">
+  <img src="../assets/ch/HowTo/upload.png" width="32%" alt="照片上传界面">
+  <img src="../assets/ch/HowTo/residue-check.png" width="32%" alt="残留物确认弹窗">
+  <img src="../assets/ch/HowTo/result.png" width="32%" alt="投放方法指引界面">
 </p>
 
 ### 已实现功能
