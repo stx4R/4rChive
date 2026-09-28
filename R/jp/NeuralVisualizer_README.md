@@ -1,6 +1,6 @@
 # NeuralVisualizer
 
-<p align="center"><img src="../assets/kr/NeuralVisualizer/cover.png" alt="NeuralVisualizer のメイン画像" width="100%"></p>
+<p align="center"><img src="../assets/jp/NeuralVisualizer/cover.png" alt="NeuralVisualizer のメイン画像" width="100%"></p>
 
 > 外部ライブラリを使わず、行列演算から逆伝播、3D 投影までを自前で実装し、多層パーセプトロンが学習する様子をブラウザ上の4つの画面で見せる教育用ツール「NeuralViz」
 
@@ -33,8 +33,8 @@
 
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/NeuralVisualizer/train.png" width="90%" alt="XOR を1500 epoch 学習したあとの決定境界"></p>
-<p align="center"><img src="../assets/kr/NeuralVisualizer/surface.png" width="90%" alt="3D 損失曲面"></p>
+<p align="center"><img src="../assets/jp/NeuralVisualizer/train.png" width="90%" alt="XOR を1500 epoch 学習したあとの決定境界"></p>
+<p align="center"><img src="../assets/jp/NeuralVisualizer/surface.png" width="90%" alt="3D 損失曲面"></p>
 <p align="center"><sub>ローカルで XOR · [4,4] · tanh · lr 0.5 により1500 epoch 学習したあとにキャプチャ。上：決定境界、下：2つの重み方向の損失曲面と学習経路</sub></p>
 
 ### 実装した機能

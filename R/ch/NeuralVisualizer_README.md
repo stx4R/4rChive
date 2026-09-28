@@ -1,6 +1,6 @@
 # NeuralVisualizer
 
-<p align="center"><img src="../assets/kr/NeuralVisualizer/cover.png" alt="NeuralVisualizer 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/NeuralVisualizer/cover.png" alt="NeuralVisualizer 封面图" width="100%"></p>
 
 > 不借助任何外部库，从矩阵运算、反向传播到3D 投影全部亲手实现，在浏览器中用四种视图展示多层感知机学习过程的教学工具「NeuralViz」
 
@@ -33,8 +33,8 @@
 
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/NeuralVisualizer/train.png" width="90%" alt="XOR 训练1500 epoch 后的决策边界"></p>
-<p align="center"><img src="../assets/kr/NeuralVisualizer/surface.png" width="90%" alt="3D 损失曲面"></p>
+<p align="center"><img src="../assets/ch/NeuralVisualizer/train.png" width="90%" alt="XOR 训练1500 epoch 后的决策边界"></p>
+<p align="center"><img src="../assets/ch/NeuralVisualizer/surface.png" width="90%" alt="3D 损失曲面"></p>
 <p align="center"><sub>在本地以 XOR · [4,4] · tanh · lr 0.5 训练1500 epoch 后截取。上：决策边界；下：两个权重方向上的损失曲面与训练路径</sub></p>
 
 ### 已实现功能
