@@ -1,6 +1,6 @@
 # Gini.
 
-<p align="center"><img src="../assets/kr/Gini/cover.png" alt="Gini. 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/Gini/cover.png" alt="Gini. 封面图" width="100%"></p>
 
 > 用微积分审计去掉性别后训练的“盲”收入分类器是否原样复现了性别差距的两阶段探究。先用定积分构建衡量歧视的指标，再对该指标求导，以解析方式求出兼顾准确率与公平性的判定阈值
 
@@ -90,7 +90,7 @@ J′(t) = Acc′(t) + 2λ Δ(t) [ f_A(t) − f_B(t) ] = 0
 
 ### 定量成果
 
-<p align="center"><img src="../assets/kr/Gini/phases.png" width="95%" alt="洛伦兹曲线与准确率-公平性前沿"></p>
+<p align="center"><img src="../assets/ch/Gini/phases.png" width="95%" alt="洛伦兹曲线与准确率-公平性前沿"></p>
 <p align="center"><sub>根据原报告数值重新绘制的图。左图为两个群体洛伦兹曲线之间的面积 D，右图为 λ 越大、差距与准确率一同下降的前沿</sub></p>
 
 **Phase 1**

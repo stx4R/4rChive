@@ -1,6 +1,6 @@
 # Gini.
 
-<p align="center"><img src="../assets/kr/Gini/cover.png" alt="Gini. 代表画像" width="100%"></p>
+<p align="center"><img src="../assets/jp/Gini/cover.png" alt="Gini. 代表画像" width="100%"></p>
 
 > 性別を除いて学習させた「ブラインド」な所得分類器が性別の格差をそのまま再現していないかを、微積分で監査した2段階の探究。定積分で差別を測る指標を作り、その指標を微分して、精度と公正性をあわせて考慮した判定の閾値を解析的に求めた
 
@@ -90,7 +90,7 @@ J′(t) = Acc′(t) + 2λ Δ(t) [ f_A(t) − f_B(t) ] = 0
 
 ### 定量的成果
 
-<p align="center"><img src="../assets/kr/Gini/phases.png" width="95%" alt="ローレンツ曲線と精度-公正性フロンティア"></p>
+<p align="center"><img src="../assets/jp/Gini/phases.png" width="95%" alt="ローレンツ曲線と精度-公正性フロンティア"></p>
 <p align="center"><sub>元のレポートの数値をもとに描き直したグラフ。左は2集団のローレンツ曲線の間の面積D、右はλを大きくするほど格差と精度がともに下がるフロンティア</sub></p>
 
 **Phase 1**
