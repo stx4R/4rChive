@@ -1,6 +1,6 @@
 # ResAll.
 
-<p align="center"><img src="../assets/kr/ResAll/cover.png" alt="ResAll. 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/ResAll/cover.png" alt="ResAll. 封面图" width="100%"></p>
 
 > 把“有限的福利预算该给谁”转化为哥斯达黎加家庭贫困数据分类问题的 Orange 研究。除了比较三个模型的性能，还用另行安装的 Fairness 插件审计了模型对户主性别和地区的公平性
 
@@ -38,7 +38,7 @@
 
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/ResAll/workflow.png" width="85%" alt="Orange 工作流"></p>
+<p align="center"><img src="../assets/ch/ResAll/workflow.png" width="85%" alt="Orange 工作流"></p>
 <p align="center"><sub>作业当时截取的 Orange 工作流。上面一行是预处理，中间是训练与评估，左下是 Fairness 插件（Dataset Bias、Reweighing → Weighted Logistic Regression）</sub></p>
 
 ### 预处理
@@ -86,7 +86,7 @@
 
 ### 定量成果
 
-<p align="center"><img src="../assets/kr/ResAll/results.png" width="95%" alt="性能与公平性比较"></p>
+<p align="center"><img src="../assets/ch/ResAll/results.png" width="95%" alt="性能与公平性比较"></p>
 <p align="center"><sub>根据 Test and Score 截图中的数值重新绘制的图表。虚线是不经模型、直接从数据测得的性别 DI（0.903）</sub></p>
 
 **测试集891户，类别平均**
