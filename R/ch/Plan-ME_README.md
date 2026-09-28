@@ -1,6 +1,6 @@
 # Plan-ME
 
-<p align="center"><img src="../assets/kr/Plan-ME/cover.png" alt="Plan-ME 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/Plan-ME/cover.png" alt="Plan-ME 封面图" width="100%"></p>
 
 > 用学校邮箱登录，管理带截止期限的待办事项，并借助哈希链体验消息篡改检测概念的学生日程应用「WTD」
 
@@ -33,8 +33,8 @@
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
 <p align="center">
-  <img src="../assets/kr/Plan-ME/todo.png" width="36%" alt="日程管理标签页">
-  <img src="../assets/kr/Plan-ME/hash-chain.png" width="36%" alt="哈希链聊天的篡改模拟">
+  <img src="../assets/ch/Plan-ME/todo.png" width="36%" alt="日程管理标签页">
+  <img src="../assets/ch/Plan-ME/hash-chain.png" width="36%" alt="哈希链聊天的篡改模拟">
 </p>
 <p align="center"><sub>在本地运行后截图。Logo 图片未包含在仓库中，因此做了遮挡。</sub></p>
 

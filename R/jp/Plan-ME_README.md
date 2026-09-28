@@ -1,6 +1,6 @@
 # Plan-ME
 
-<p align="center"><img src="../assets/kr/Plan-ME/cover.png" alt="Plan-ME のメイン画像" width="100%"></p>
+<p align="center"><img src="../assets/jp/Plan-ME/cover.png" alt="Plan-ME のメイン画像" width="100%"></p>
 
 > 学校のメールアドレスでログインして締め切りのあるタスクを管理し、ハッシュチェーンでメッセージ改ざんの概念を体験できる学生向けスケジュールアプリ「WTD」
 
@@ -33,8 +33,8 @@
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
 <p align="center">
-  <img src="../assets/kr/Plan-ME/todo.png" width="36%" alt="スケジュール管理タブ">
-  <img src="../assets/kr/Plan-ME/hash-chain.png" width="36%" alt="ハッシュチェーンメッセンジャーの改ざんシミュレーション">
+  <img src="../assets/jp/Plan-ME/todo.png" width="36%" alt="スケジュール管理タブ">
+  <img src="../assets/jp/Plan-ME/hash-chain.png" width="36%" alt="ハッシュチェーンメッセンジャーの改ざんシミュレーション">
 </p>
 <p align="center"><sub>ローカルで実行してキャプチャ。ロゴ画像はリポジトリに含まれていないため隠した。</sub></p>
 
