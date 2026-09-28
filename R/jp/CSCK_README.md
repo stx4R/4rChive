@@ -1,6 +1,6 @@
 # CSCK
 
-<p align="center"><img src="../assets/kr/CSCK/cover.png" alt="CSCK のメイン画像" width="100%"></p>
+<p align="center"><img src="../assets/jp/CSCK/cover.png" alt="CSCK のメイン画像" width="100%"></p>
 
 > 第3回オリャン模擬国会の会場入口に置いた共用タブレットで、初めて見る人でも説明なしに3秒以内で出席登録を終えられるように設計した出席チェックキオスク
 
@@ -41,7 +41,7 @@
 
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/CSCK/kiosk.png" width="90%" alt="出席チェックキオスクの画面"></p>
+<p align="center"><img src="../assets/jp/CSCK/kiosk.png" width="90%" alt="出席チェックキオスクの画面"></p>
 <p align="center"><sub>ローカルビルドでキャプチャ。名簿は架空の参加者12人に置き換えた。「010-123」まで入力した状態で、サーバーの設定がないため、ヘッダーにオフラインモードの警告が出ている。</sub></p>
 
 ### 実装した機能
@@ -133,7 +133,7 @@
 | GitHub リポジトリ | [stx4R/CSCK](https://github.com/stx4R/CSCK)（非公開） |
 | 公開URL | https://csck.vercel.app |
 
-<p align="center"><img src="../assets/kr/CSCK/unlock.png" width="70%" alt="ダッシュボードのロック解除キーパッド"></p>
+<p align="center"><img src="../assets/jp/CSCK/unlock.png" width="70%" alt="ダッシュボードのロック解除キーパッド"></p>
 
 ### 画面フロー
 
