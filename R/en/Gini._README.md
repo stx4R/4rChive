@@ -1,6 +1,6 @@
 # Gini.
 
-<p align="center"><img src="../assets/Gini/cover.png" alt="Gini. cover image" width="100%"></p>
+<p align="center"><img src="../assets/kr/Gini/cover.png" alt="Gini. cover image" width="100%"></p>
 
 > A two-stage inquiry that used calculus to audit whether a "blind" income classifier, trained without gender, still reproduces the gender gap. It builds a metric that measures discrimination with a definite integral, then differentiates that metric to derive, analytically, a decision threshold that weighs accuracy and fairness together
 
@@ -90,7 +90,7 @@ Blind LR training → logit-normal fit per group and class → analytic solution
 
 ### Quantitative Results
 
-<p align="center"><img src="../assets/Gini/phases.png" width="95%" alt="Lorenz curves and accuracy-fairness frontier"></p>
+<p align="center"><img src="../assets/kr/Gini/phases.png" width="95%" alt="Lorenz curves and accuracy-fairness frontier"></p>
 <p align="center"><sub>Graphs redrawn from the figures in the original report. Left: the area D between the two groups' Lorenz curves. Right: the frontier where both the gap and accuracy shrink as λ grows</sub></p>
 
 **Phase 1**

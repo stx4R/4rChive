@@ -1,6 +1,6 @@
 # AGDecision.
 
-<p align="center"><img src="../assets/AGDecision/cover.png" alt="AGDecision. cover image" width="100%"></p>
+<p align="center"><img src="../assets/kr/AGDecision/cover.png" alt="AGDecision. cover image" width="100%"></p>
 
 > A Society and Culture inquiry that tested "is algorithm-based decision-making really objective?" with a questionnaire (15 people) and interviews (6 people). Rather than what algorithms discriminate against, it focuses on why people accept their verdicts without question
 
@@ -74,7 +74,7 @@ I first asked 4 common questions (degree of trust in AI, agreement that it's obj
 
 ### Quantitative Results
 
-<p align="center"><img src="../assets/AGDecision/findings.png" width="95%" alt="Perception items and trust by domain"></p>
+<p align="center"><img src="../assets/kr/AGDecision/findings.png" width="95%" alt="Perception items and trust by domain"></p>
 <p align="center"><sub>Graphs redrawn from the figures in the report. Left: "black-box trust," with understanding low compared with perceived objectivity and trust. Right: "high-stakes delegation," with recidivism prediction trusted more than hiring, lending or admissions</sub></p>
 
 | Pattern | Evidence |

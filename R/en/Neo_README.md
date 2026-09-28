@@ -1,6 +1,6 @@
 # Neo
 
-<p align="center"><img src="../assets/Neo/cover.png" alt="Neo cover image" width="100%"></p>
+<p align="center"><img src="../assets/kr/Neo/cover.png" alt="Neo cover image" width="100%"></p>
 
 > A PWA that turns overseas export regulations from "this law changed" into "so here is what you have to do." 61 laws and 174 action items were cross-checked by hand, and once installed, every screen opens even with no network connection
 
@@ -38,10 +38,10 @@ There are only five runtime dependencies: `next` · `react` · `react-dom` · `d
 ## 3. Key Features & Contributions
 
 <p align="center">
-  <img src="../assets/Neo/home.png" width="24%" alt="Home">
-  <img src="../assets/Neo/laws.png" width="24%" alt="Regulation list">
-  <img src="../assets/Neo/detail.png" width="24%" alt="Law detail">
-  <img src="../assets/Neo/map.png" width="24%" alt="Map">
+  <img src="../assets/kr/Neo/home.png" width="24%" alt="Home">
+  <img src="../assets/kr/Neo/laws.png" width="24%" alt="Regulation list">
+  <img src="../assets/kr/Neo/detail.png" width="24%" alt="Law detail">
+  <img src="../assets/kr/Neo/map.png" width="24%" alt="Map">
 </p>
 <p align="center"><sub>Captured from a local build, set up with the sample company included in the repository (Hanmat Foods, Korea → Vietnam, food & beverages). From left: Home · Regulation list · Law detail · Map</sub></p>
 

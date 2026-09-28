@@ -1,6 +1,6 @@
 # HowTo
 
-<p align="center"><img src="../assets/HowTo/cover.png" alt="HowTo cover image" width="100%"></p>
+<p align="center"><img src="../assets/kr/HowTo/cover.png" alt="HowTo cover image" width="100%"></p>
 
 > 「어떻게?」 ("How?"), a web app that takes one photo of a piece of trash, identifies its material and shows the disposal steps along with a video
 
@@ -33,9 +33,9 @@ Recycling rules are complicated, so when people are unsure they either ask someo
 ## 3. Key Features & Contributions
 
 <p align="center">
-  <img src="../assets/HowTo/upload.png" width="32%" alt="Photo upload screen">
-  <img src="../assets/HowTo/residue-check.png" width="32%" alt="Residue check popup">
-  <img src="../assets/HowTo/result.png" width="32%" alt="Disposal guide screen">
+  <img src="../assets/kr/HowTo/upload.png" width="32%" alt="Photo upload screen">
+  <img src="../assets/kr/HowTo/residue-check.png" width="32%" alt="Residue check popup">
+  <img src="../assets/kr/HowTo/result.png" width="32%" alt="Disposal guide screen">
 </p>
 
 ### Implemented Features

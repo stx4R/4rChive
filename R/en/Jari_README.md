@@ -1,6 +1,6 @@
 # Jari
 
-<p align="center"><img src="../assets/Jari/cover.png" alt="Jari cover image" width="100%"></p>
+<p align="center"><img src="../assets/kr/Jari/cover.png" alt="Jari cover image" width="100%"></p>
 
 > A classroom seating program that takes up to five seat preferences from each student and assigns seats by swapping them with the Top Trading Cycles (TTC) algorithm
 
@@ -33,7 +33,7 @@ I took the algorithm from matching theory. The well-known Gale-Shapley is for tw
 
 ## 3. Key Features & Contributions
 
-<p align="center"><img src="../assets/Jari/web.png" width="90%" alt="Assignment result screen of the web version"></p>
+<p align="center"><img src="../assets/kr/Jari/web.png" width="90%" alt="Assignment result screen of the web version"></p>
 <p align="center"><sub>Web version, headcount mode with 24 students. Result of an assignment with seats 1 and 2 fixed and seats 31–36 excluded</sub></p>
 
 ### Implemented Features
@@ -55,7 +55,7 @@ I took the algorithm from matching theory. The well-known Gale-Shapley is for tw
 
 ### Quantitative Results
 
-These results come from porting the web version's assignment code as-is to Node.js, giving each student 5 random preferences and running 5,000 trials per condition (measured while writing this report in 2026.09; the script is [`assets/Jari/seat_sim.js`](../assets/Jari/seat_sim.js)).
+These results come from porting the web version's assignment code as-is to Node.js, giving each student 5 random preferences and running 5,000 trials per condition (measured while writing this report in 2026.09; the script is [`assets/kr/Jari/seat_sim.js`](../assets/kr/Jari/seat_sim.js)).
 
 | Condition (students / seats) | Got 1st choice | Within top 3 | Within top 5 |
 |---|---|---|---|
@@ -103,7 +103,7 @@ When the number of students equals the number of seats, about half get their fir
 
 **Solution** In the web version, the available seats are shuffled before being handed out to students (random initial assignment).
 
-**Result** Under the same conditions, first-choice rates for numbers 1–5 and 26–30 evened out at 31.6% and 31.8%. For reference, TTC with a random initial assignment is known to produce the same outcome distribution as having students pick one at a time in random order (random serial dictatorship) (Abdulkadiroğlu & Sönmez, 1998). Because of the shuffle bias described above, though, the current implementation isn't fully uniform. The figures come from a simulation run while writing this report ([`seat_sim2.js`](../assets/Jari/seat_sim2.js)).
+**Result** Under the same conditions, first-choice rates for numbers 1–5 and 26–30 evened out at 31.6% and 31.8%. For reference, TTC with a random initial assignment is known to produce the same outcome distribution as having students pick one at a time in random order (random serial dictatorship) (Abdulkadiroğlu & Sönmez, 1998). Because of the shuffle bias described above, though, the current implementation isn't fully uniform. The figures come from a simulation run while writing this report ([`seat_sim2.js`](../assets/kr/Jari/seat_sim2.js)).
 
 ### ② Classrooms don't have exactly as many desks as students
 
@@ -132,7 +132,7 @@ When the number of students equals the number of seats, about half get their fir
 | GitHub Repository | [stx4R/Jari](https://github.com/stx4R/Jari) (private) |
 | Live URL | https://stx4r.github.io/Jari/ |
 | Executable | `Jari.exe` in the repository (Windows) |
-| Simulations | [`seat_sim.js`](../assets/Jari/seat_sim.js), [`seat_sim2.js`](../assets/Jari/seat_sim2.js) |
+| Simulations | [`seat_sim.js`](../assets/kr/Jari/seat_sim.js), [`seat_sim2.js`](../assets/kr/Jari/seat_sim2.js) |
 
 ### Algorithm Flow
 

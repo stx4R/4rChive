@@ -1,6 +1,6 @@
 # SunDO
 
-<p align="center"><img src="../assets/SunDO/cover.png" alt="SunDO cover image" width="100%"></p>
+<p align="center"><img src="../assets/kr/SunDO/cover.png" alt="SunDO cover image" width="100%"></p>
 
 > A school-only PWA that moved the student council Student Conduct Department's conduct records off paper. With no server, permissions are enforced by Firestore security rules alone, and mutation testing proved that those rules actually deny what they are supposed to
 
@@ -36,7 +36,7 @@ This app has no application server. The Firebase SDK in the browser connects str
 
 ## 3. Key Features & Contributions
 
-<p align="center"><img src="../assets/SunDO/login.png" width="36%" alt="SunDO login screen"></p>
+<p align="center"><img src="../assets/kr/SunDO/login.png" width="36%" alt="SunDO login screen"></p>
 <p align="center"><sub>The login screen of the live site. Screens past login contain real student information, so they are not included.</sub></p>
 
 ### Implemented Features

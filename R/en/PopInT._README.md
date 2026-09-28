@@ -1,6 +1,6 @@
 # PopInT.
 
-<p align="center"><img src="../assets/PopInT/cover.png" alt="PopInT. cover image" width="100%"></p>
+<p align="center"><img src="../assets/kr/PopInT/cover.png" alt="PopInT. cover image" width="100%"></p>
 
 > An educational analysis tool that turns the pecking order of an animal group into a directed graph and compares four ranking algorithms on a single screen
 
@@ -33,7 +33,7 @@ There is no repository. This report is based on the single file left on my machi
 
 ## 3. Key Features & Contributions
 
-<p align="center"><img src="../assets/PopInT/primates.png" width="95%" alt="Primate preset analysis screen"></p>
+<p align="center"><img src="../assets/kr/PopInT/primates.png" width="95%" alt="Primate preset analysis screen"></p>
 <p align="center"><sub>Captured locally (primate preset). Left: individuals and the adjacency matrix editor; center: the directed graph; right: ranking, cycle warning and algorithm comparison table. The PageRank column of the comparison table shows the problem from §5-③ plainly</sub></p>
 
 | Area | Features |

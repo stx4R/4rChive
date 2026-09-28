@@ -1,6 +1,6 @@
 # Sirius
 
-<p align="center"><img src="../assets/Sirius/cover.png" alt="Sirius cover image" width="100%"></p>
+<p align="center"><img src="../assets/kr/Sirius/cover.png" alt="Sirius cover image" width="100%"></p>
 
 > A pixel-art board game that builds probability and statistics into the rules that decide outcomes, not into explanatory text. Balance was verified with seeded Monte Carlo simulation, and it ships as a single exe for booth laptops
 
@@ -35,10 +35,10 @@ I read the textbook first and set the design criteria from it. The 2022 revised 
 
 ## 3. Key Features & Contributions
 
-<p align="center"><img src="../assets/Sirius/game.png" width="90%" alt="Gameplay screen"></p>
+<p align="center"><img src="../assets/kr/Sirius/game.png" width="90%" alt="Gameplay screen"></p>
 <p align="center">
-  <img src="../assets/Sirius/wager.png" width="49%" alt="ORION'S WAGER prediction bet">
-  <img src="../assets/Sirius/report-round1.png" width="49%" alt="CONSTELLATION LOG statistics report">
+  <img src="../assets/kr/Sirius/wager.png" width="49%" alt="ORION'S WAGER prediction bet">
+  <img src="../assets/kr/Sirius/report-round1.png" width="49%" alt="CONSTELLATION LOG statistics report">
 </p>
 <p align="center"><sub>Captured locally with the repository's automated screenshot tool (fixed seed). Top: gameplay screen. Bottom left: prediction bet. Bottom right: end-of-cycle statistics report</sub></p>
 

@@ -1,6 +1,6 @@
 # NeuralVisualizer
 
-<p align="center"><img src="../assets/NeuralVisualizer/cover.png" alt="NeuralVisualizer cover image" width="100%"></p>
+<p align="center"><img src="../assets/kr/NeuralVisualizer/cover.png" alt="NeuralVisualizer cover image" width="100%"></p>
 
 > 「NeuralViz」, a teaching tool that implements everything from matrix operations to backpropagation and 3D projection with no external libraries, and shows a multilayer perceptron learning in the browser through four views
 
@@ -33,8 +33,8 @@ It uses no external libraries at all, because the point of this project is "impl
 
 ## 3. Key Features & Contributions
 
-<p align="center"><img src="../assets/NeuralVisualizer/train.png" width="90%" alt="Decision boundary after 1500 epochs of XOR training"></p>
-<p align="center"><img src="../assets/NeuralVisualizer/surface.png" width="90%" alt="3D loss surface"></p>
+<p align="center"><img src="../assets/kr/NeuralVisualizer/train.png" width="90%" alt="Decision boundary after 1500 epochs of XOR training"></p>
+<p align="center"><img src="../assets/kr/NeuralVisualizer/surface.png" width="90%" alt="3D loss surface"></p>
 <p align="center"><sub>Captured locally after training XOR · [4,4] · tanh · lr 0.5 for 1500 epochs. Top: decision boundary. Bottom: loss surface along two weight directions, with the training path</sub></p>
 
 ### Implemented Features

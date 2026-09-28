@@ -1,6 +1,6 @@
 # Plan-ME
 
-<p align="center"><img src="../assets/Plan-ME/cover.png" alt="Plan-ME cover image" width="100%"></p>
+<p align="center"><img src="../assets/kr/Plan-ME/cover.png" alt="Plan-ME cover image" width="100%"></p>
 
 > 「WTD」, a scheduling app for students: sign in with a school email, manage to-dos with deadlines, and see firsthand how message tampering gets caught by a hash chain
 
@@ -33,8 +33,8 @@ It started as a to-do list that, true to its name, only answered "what do I have
 ## 3. Key Features & Contributions
 
 <p align="center">
-  <img src="../assets/Plan-ME/todo.png" width="36%" alt="Schedule tab">
-  <img src="../assets/Plan-ME/hash-chain.png" width="36%" alt="Tampering simulation in the hash-chain messenger">
+  <img src="../assets/kr/Plan-ME/todo.png" width="36%" alt="Schedule tab">
+  <img src="../assets/kr/Plan-ME/hash-chain.png" width="36%" alt="Tampering simulation in the hash-chain messenger">
 </p>
 <p align="center"><sub>Captured from a local run. The logo image isn't included in the repository, so it has been masked.</sub></p>
 

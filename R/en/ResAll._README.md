@@ -1,6 +1,6 @@
 # ResAll.
 
-<p align="center"><img src="../assets/ResAll/cover.png" alt="ResAll. cover image" width="100%"></p>
+<p align="center"><img src="../assets/kr/ResAll/cover.png" alt="ResAll. cover image" width="100%"></p>
 
 > An Orange study that turns "who should a limited welfare budget go to?" into a classification problem on Costa Rican household poverty data. Alongside the performance of three models, I audited fairness by household-head gender and by region using the separately installed Fairness add-on
 
@@ -38,7 +38,7 @@ Welfare budgets are limited, and the poorest households tend to be the ones leas
 
 ## 3. Key Features & Contributions
 
-<p align="center"><img src="../assets/ResAll/workflow.png" width="85%" alt="Orange workflow"></p>
+<p align="center"><img src="../assets/kr/ResAll/workflow.png" width="85%" alt="Orange workflow"></p>
 <p align="center"><sub>The Orange workflow as captured at the time. The top row is preprocessing, the middle is training and evaluation, and the bottom left is the Fairness add-on (Dataset Bias, Reweighing → Weighted Logistic Regression)</sub></p>
 
 ### Preprocessing
@@ -86,7 +86,7 @@ Welfare budgets are limited, and the poorest households tend to be the ones leas
 
 ### Quantitative Results
 
-<p align="center"><img src="../assets/ResAll/results.png" width="95%" alt="Performance and fairness comparison"></p>
+<p align="center"><img src="../assets/kr/ResAll/results.png" width="95%" alt="Performance and fairness comparison"></p>
 <p align="center"><sub>Chart redrawn from the numbers in the Test and Score capture. The dotted line is the gender DI measured from the data with no model (0.903)</sub></p>
 
 **891 test households, class average**
