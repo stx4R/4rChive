@@ -1,6 +1,6 @@
 # BBPre.
 
-<p align="center"><img src="../assets/kr/BBPre/cover.png" alt="BBPre. 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/BBPre/cover.png" alt="BBPre. 封面图" width="100%"></p>
 
 > 用 KBO · MLB 比赛数据预测“哪些比赛会吸引大批观众”的机器学习研究。以完全隔离 2026 上半季的时间留出集进行验证，并找到了在满座成为常态的赛季中预测问题性质发生转变的节点（截断）
 
@@ -87,7 +87,7 @@
 
 ### 定量成果
 
-<p align="center"><img src="../assets/kr/BBPre/results.png" width="95%" alt="各模型 R² 与特征重要性"></p>
+<p align="center"><img src="../assets/ch/BBPre/results.png" width="95%" alt="各模型 R² 与特征重要性"></p>
 <p align="center"><sub>根据原报告中的数值重新绘制的图表</sub></p>
 
 **KBO（训练 2023–2025，测试 2026 上半季 424 场）**
