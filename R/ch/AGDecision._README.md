@@ -1,6 +1,6 @@
 # AGDecision.
 
-<p align="center"><img src="../assets/kr/AGDecision/cover.png" alt="AGDecision. 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/AGDecision/cover.png" alt="AGDecision. 封面图" width="100%"></p>
 
 > 通过问卷（15 人）和访谈（6 人）检验“基于算法的决策真的客观吗”的社会·文化研究。关注点不在算法歧视了什么，而在人们为什么毫不怀疑地接受它的判定
 
@@ -74,7 +74,7 @@
 
 ### 定量成果
 
-<p align="center"><img src="../assets/kr/AGDecision/findings.png" width="95%" alt="认知题目与各领域信任度"></p>
+<p align="center"><img src="../assets/ch/AGDecision/findings.png" width="95%" alt="认知题目与各领域信任度"></p>
 <p align="center"><sub>根据报告中的数值重新绘制的图表。左侧是理解程度明显低于客观性认知和信任的“黑箱信任”，右侧是再犯预测信任度高于招聘、贷款、升学的“高风险委托”</sub></p>
 
 | 模式 | 依据 |
