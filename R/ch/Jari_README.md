@@ -1,6 +1,6 @@
 # Jari
 
-<p align="center"><img src="../assets/kr/Jari/cover.png" alt="Jari 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/Jari/cover.png" alt="Jari 封面图" width="100%"></p>
 
 > 为每名学生收集最多5个志愿座位，再用 Top Trading Cycles（TTC）算法互换座位完成分配的教室座位编排程序
 
@@ -33,7 +33,7 @@
 
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/Jari/web.png" width="90%" alt="网页版分配结果界面"></p>
+<p align="center"><img src="../assets/ch/Jari/web.png" width="90%" alt="网页版分配结果界面"></p>
 <p align="center"><sub>网页版，人数模式24人。将1、2号设为固定座位、31~36号设为排除座位后的分配结果</sub></p>
 
 ### 已实现功能
@@ -55,7 +55,7 @@
 
 ### 定量成果
 
-以下是把网页版的分配代码原样移植到 Node.js，为每名学生随机生成5个志愿，各条件运行5,000次的结果（2026.09 撰写报告时测量，脚本见 [`assets/kr/Jari/seat_sim.js`](../assets/kr/Jari/seat_sim.js)）。
+以下是把网页版的分配代码原样移植到 Node.js，为每名学生随机生成5个志愿，各条件运行5,000次的结果（2026.09 撰写报告时测量，脚本见 [`assets/ch/Jari/seat_sim.js`](../assets/ch/Jari/seat_sim.js)）。
 
 | 条件（学生 / 座位） | 分到第一志愿 | 前三志愿以内 | 前五志愿以内 |
 |---|---|---|---|
@@ -103,7 +103,7 @@
 
 **解决** 在网页版中改为先打乱可用座位，再分给学生（随机初始分配）。
 
-**结果** 相同条件下，1~5号与26~30号的第一志愿分配率分别为31.6%和31.8%，二者持平。顺带一提，已知随机初始分配的 TTC 与按随机顺序让每人依次挑选的方式（随机序列独裁）结果分布相同（Abdulkadiroğlu & Sönmez, 1998）。不过由于上述洗牌偏差，当前实现并非完全均匀。以上数据是撰写报告时通过模拟实验（[`seat_sim2.js`](../assets/kr/Jari/seat_sim2.js)）得到的。
+**结果** 相同条件下，1~5号与26~30号的第一志愿分配率分别为31.6%和31.8%，二者持平。顺带一提，已知随机初始分配的 TTC 与按随机顺序让每人依次挑选的方式（随机序列独裁）结果分布相同（Abdulkadiroğlu & Sönmez, 1998）。不过由于上述洗牌偏差，当前实现并非完全均匀。以上数据是撰写报告时通过模拟实验（[`seat_sim2.js`](../assets/ch/Jari/seat_sim2.js)）得到的。
 
 ### ② 教室里的课桌并不刚好等于学生人数
 
@@ -132,7 +132,7 @@
 | GitHub 仓库 | [stx4R/Jari](https://github.com/stx4R/Jari)（私有） |
 | 部署网址 | https://stx4r.github.io/Jari/ |
 | 可执行文件 | 仓库中的 `Jari.exe`（Windows） |
-| 模拟实验 | [`seat_sim.js`](../assets/kr/Jari/seat_sim.js)、[`seat_sim2.js`](../assets/kr/Jari/seat_sim2.js) |
+| 模拟实验 | [`seat_sim.js`](../assets/ch/Jari/seat_sim.js)、[`seat_sim2.js`](../assets/ch/Jari/seat_sim2.js) |
 
 ### 算法流程
 

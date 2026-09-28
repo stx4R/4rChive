@@ -1,6 +1,6 @@
 # Jari
 
-<p align="center"><img src="../assets/kr/Jari/cover.png" alt="Jari のメイン画像" width="100%"></p>
+<p align="center"><img src="../assets/jp/Jari/cover.png" alt="Jari のメイン画像" width="100%"></p>
 
 > 生徒一人ひとりから第5希望まで座りたい席を集め、Top Trading Cycles（TTC）アルゴリズムで席を交換させて割り当てる教室の席決めプログラム
 
@@ -33,7 +33,7 @@
 
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/Jari/web.png" width="90%" alt="Web 版の割り当て結果画面"></p>
+<p align="center"><img src="../assets/jp/Jari/web.png" width="90%" alt="Web 版の割り当て結果画面"></p>
 <p align="center"><sub>Web 版、人数モードで24人。1・2番を固定席、31〜36番を除外席にして割り当てた結果</sub></p>
 
 ### 実装した機能
@@ -55,7 +55,7 @@
 
 ### 定量的成果
 
-Web 版の割り当てコードをそのまま Node.js に移し、生徒ごとにランダムな第5希望までを与えて5,000回ずつ回した結果である（2026.09 のレポート作成中に測定、スクリプトは [`assets/kr/Jari/seat_sim.js`](../assets/kr/Jari/seat_sim.js)）。
+Web 版の割り当てコードをそのまま Node.js に移し、生徒ごとにランダムな第5希望までを与えて5,000回ずつ回した結果である（2026.09 のレポート作成中に測定、スクリプトは [`assets/jp/Jari/seat_sim.js`](../assets/jp/Jari/seat_sim.js)）。
 
 | 条件（生徒 / 座席） | 第1希望に割り当て | 第3希望以内 | 第5希望以内 |
 |---|---|---|---|
@@ -103,7 +103,7 @@ Web 版の割り当てコードをそのまま Node.js に移し、生徒ごと�
 
 **解決** Web 版では、使用可能な座席をシャッフルしてから生徒に配るように変えた（ランダムな初期割り当て）。
 
-**結果** 同じ条件で、1〜5番と26〜30番の第1希望の割り当て率は31.6%と31.8%で同等になった。なお、ランダムな初期割り当てを行う TTC は、ランダムな順番で1人ずつ選ばせる方式（ランダム・シリアル・ディクテーターシップ）と結果の分布が同じであることが知られている（Abdulkadiroğlu & Sönmez, 1998）。ただし前述のシャッフルの偏りのせいで、現在の実装は完全には均等でない。数値はレポート作成中のシミュレーション（[`seat_sim2.js`](../assets/kr/Jari/seat_sim2.js)）で得た。
+**結果** 同じ条件で、1〜5番と26〜30番の第1希望の割り当て率は31.6%と31.8%で同等になった。なお、ランダムな初期割り当てを行う TTC は、ランダムな順番で1人ずつ選ばせる方式（ランダム・シリアル・ディクテーターシップ）と結果の分布が同じであることが知られている（Abdulkadiroğlu & Sönmez, 1998）。ただし前述のシャッフルの偏りのせいで、現在の実装は完全には均等でない。数値はレポート作成中のシミュレーション（[`seat_sim2.js`](../assets/jp/Jari/seat_sim2.js)）で得た。
 
 ### ② 教室の机は生徒の数ちょうどとは限らない
 
@@ -132,7 +132,7 @@ Web 版の割り当てコードをそのまま Node.js に移し、生徒ごと�
 | GitHub リポジトリ | [stx4R/Jari](https://github.com/stx4R/Jari)（非公開） |
 | 公開URL | https://stx4r.github.io/Jari/ |
 | 実行ファイル | リポジトリ内の `Jari.exe`（Windows） |
-| シミュレーション | [`seat_sim.js`](../assets/kr/Jari/seat_sim.js)、[`seat_sim2.js`](../assets/kr/Jari/seat_sim2.js) |
+| シミュレーション | [`seat_sim.js`](../assets/jp/Jari/seat_sim.js)、[`seat_sim2.js`](../assets/jp/Jari/seat_sim2.js) |
 
 ### アルゴリズムの流れ
 
