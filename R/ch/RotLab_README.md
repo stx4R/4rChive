@@ -1,6 +1,6 @@
 # RotLab
 
-<p align="center"><img src="../assets/kr/RotLab/cover.png" alt="RotLab 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/RotLab/cover.png" alt="RotLab 封面图" width="100%"></p>
 
 > 不借助任何库，亲手实现欧拉角、旋转矩阵和四元数，并用 3D 画面和数值同时展示万向节锁及不同插值方式差异的旋转变换实验室
 
@@ -33,10 +33,10 @@ Three.js 只用于渲染（场景、相机、光照、网格）。**旋转数学
 
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/RotLab/normal.png" width="90%" alt="正常姿态，det E 0.94"></p>
+<p align="center"><img src="../assets/ch/RotLab/normal.png" width="90%" alt="正常姿态，det E 0.94"></p>
 <p align="center">
-  <img src="../assets/kr/RotLab/gimbal.png" width="49%" alt="万向节锁，det E 0">
-  <img src="../assets/kr/RotLab/interp.png" width="49%" alt="欧拉线性插值与 slerp 对比结果"></p>
+  <img src="../assets/ch/RotLab/gimbal.png" width="49%" alt="万向节锁，det E 0">
+  <img src="../assets/ch/RotLab/interp.png" width="49%" alt="欧拉线性插值与 slerp 对比结果"></p>
 <p align="center"><sub>本地截图。上：正常姿态（det E 0.9397，自由度 3）。左下：θ=90° 万向节锁（蓝色 Z 环与橙色 X 环重叠在同一平面，det E 0.0000，自由度 2）。右下：过极点插值结果（欧拉路径超出 +115.90%）</sub></p>
 
 ### 已实现功能
