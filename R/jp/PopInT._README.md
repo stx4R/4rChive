@@ -1,6 +1,6 @@
 # PopInT.
 
-<p align="center"><img src="../assets/kr/PopInT/cover.png" alt="PopInT. 代表画像" width="100%"></p>
+<p align="center"><img src="../assets/jp/PopInT/cover.png" alt="PopInT. 代表画像" width="100%"></p>
 
 > 動物の群れの順位制（pecking order）を有向グラフに置き換え、4つの順位付けアルゴリズムを1画面で比べられる教育用の分析ツール
 
@@ -33,7 +33,7 @@
 
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/PopInT/primates.png" width="95%" alt="霊長類プリセットの分析画面"></p>
+<p align="center"><img src="../assets/jp/PopInT/primates.png" width="95%" alt="霊長類プリセットの分析画面"></p>
 <p align="center"><sub>ローカルでキャプチャ（霊長類プリセット）。左は個体と隣接行列のエディター、中央は有向グラフ、右は序列・循環の警告・アルゴリズム比較表。比較表のPageRankの列に、§5-③の問題がそのまま表れている</sub></p>
 
 | 領域 | 機能 |

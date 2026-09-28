@@ -1,6 +1,6 @@
 # PopInT.
 
-<p align="center"><img src="../assets/kr/PopInT/cover.png" alt="PopInT. 封面图" width="100%"></p>
+<p align="center"><img src="../assets/ch/PopInT/cover.png" alt="PopInT. 封面图" width="100%"></p>
 
 > 把动物群体的啄序（pecking order）转换为有向图，并在一个画面中比较四种排序算法的教学用分析工具
 
@@ -33,7 +33,7 @@
 
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/PopInT/primates.png" width="95%" alt="灵长类预设分析画面"></p>
+<p align="center"><img src="../assets/ch/PopInT/primates.png" width="95%" alt="灵长类预设分析画面"></p>
 <p align="center"><sub>本地截图（灵长类预设）。左侧是个体与邻接矩阵编辑器，中间是有向图，右侧是等级、循环警告和算法比较表。比较表的 PageRank 列直接暴露了 §5-③ 中的问题</sub></p>
 
 | 区域 | 功能 |
