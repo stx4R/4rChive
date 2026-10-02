@@ -113,7 +113,7 @@
 | 학습된 가중치 | 커넥톰 초기값과 상관 0.537, 간선 46.9%가 억제성으로 바뀜(초기 0%). 입력→중간층이 초기값에서 가장 멀어졌고(상관 0.14) 중간층끼리는 0.36 |
 | WASM SIMD 커널 | 결정당 BPTT 325–423 ms → 199–223 ms (×1.6–1.9), JS 커널과 결과 차이 ≤ 1e-18 |
 | Node ↔ 브라우저 추론 일치 | 최대 차이 1.42e-14 |
-| 배포 | https://stx4r.github.io/Fly/ (응답 200 확인) |
+| 배포 | https://stx4r.me/project/Fly-Tetris/ (응답 200 확인) |
 | 사용자·방문 수 | (확인 필요) |
 
 ### 정성적 성과
@@ -176,8 +176,8 @@
 
 | 구분 | 링크 |
 |---|---|
-| GitHub 저장소 | [stx4R/Fly](https://github.com/stx4R/Fly) |
-| 배포 URL | https://stx4r.github.io/Fly/ |
+| GitHub 저장소 | [stx4R/Fly-Tetris](https://github.com/stx4R/Fly-Tetris) |
+| 배포 URL | https://stx4r.me/project/Fly-Tetris/ |
 | 단계별 문서 | `docs/stage3-calibration.md` ~ `docs/stage8-web-v1.md` (6편) |
 | 데이터 출처 | [neuPrint](https://neuprint.janelia.org) hemibrain v1.2.1 |
 

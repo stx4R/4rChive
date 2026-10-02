@@ -113,7 +113,7 @@
 | 学習後の重み | コネクトームの初期値との相関0.537、エッジの46.9%が抑制性に変化（初期は0%）。入力→中間層が初期値から最も遠ざかり（相関0.14）、中間層どうしは0.36 |
 | WASM SIMDカーネル | 決定あたりのBPTTが325–423 ms → 199–223 ms（×1.6–1.9）、JSカーネルとの結果の差 ≤ 1e-18 |
 | Node ↔ ブラウザの推論の一致 | 最大差1.42e-14 |
-| デプロイ | https://stx4r.github.io/Fly/（レスポンス200を確認） |
+| デプロイ | https://stx4r.me/project/Fly-Tetris/（レスポンス200を確認） |
 | ユーザー数・訪問数 | （要確認） |
 
 ### 定性的成果
@@ -176,8 +176,8 @@
 
 | 区分 | リンク |
 |---|---|
-| GitHub リポジトリ | [stx4R/Fly](https://github.com/stx4R/Fly) |
-| 公開URL | https://stx4r.github.io/Fly/ |
+| GitHub リポジトリ | [stx4R/Fly-Tetris](https://github.com/stx4R/Fly-Tetris) |
+| 公開URL | https://stx4r.me/project/Fly-Tetris/ |
 | 段階ごとの文書 | `docs/stage3-calibration.md` 〜 `docs/stage8-web-v1.md`（6本） |
 | データの出典 | [neuPrint](https://neuprint.janelia.org) hemibrain v1.2.1 |
 

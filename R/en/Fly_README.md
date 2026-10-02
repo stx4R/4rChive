@@ -113,7 +113,7 @@ It passed 3 of the 5 gates (the one not in the table is the share of games lost 
 | Learned weights | Correlation of 0.537 with the connectome initial values; 46.9% of edges became inhibitory (0% initially). Input→intermediate moved furthest from the initial values (correlation 0.14); intermediate-to-intermediate was 0.36 |
 | WASM SIMD kernel | BPTT per decision 325–423 ms → 199–223 ms (×1.6–1.9); results differ from the JS kernel by ≤ 1e-18 |
 | Node ↔ browser inference agreement | Max difference 1.42e-14 |
-| Deployment | https://stx4r.github.io/Fly/ (200 response confirmed) |
+| Deployment | https://stx4r.me/project/Fly-Tetris/ (200 response confirmed) |
 | Users · visits | (to be confirmed) |
 
 ### Qualitative Results
@@ -176,8 +176,8 @@ It passed 3 of the 5 gates (the one not in the table is the share of games lost 
 
 | Category | Link |
 |---|---|
-| GitHub Repository | [stx4R/Fly](https://github.com/stx4R/Fly) |
-| Live URL | https://stx4r.github.io/Fly/ |
+| GitHub Repository | [stx4R/Fly-Tetris](https://github.com/stx4R/Fly-Tetris) |
+| Live URL | https://stx4r.me/project/Fly-Tetris/ |
 | Stage documents | `docs/stage3-calibration.md` ~ `docs/stage8-web-v1.md` (6 documents) |
 | Data source | [neuPrint](https://neuprint.janelia.org) hemibrain v1.2.1 |
 

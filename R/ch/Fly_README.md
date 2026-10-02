@@ -113,7 +113,7 @@
 | 训练后的权重 | 与连接组初始值的相关为 0.537，46.9% 的边变为抑制性（初始为 0%）。输入→中间层离初始值最远（相关 0.14），中间层之间为 0.36 |
 | WASM SIMD 内核 | 每个决策的 BPTT 325–423 ms → 199–223 ms（×1.6–1.9），与 JS 内核的结果差 ≤ 1e-18 |
 | Node ↔ 浏览器推理一致性 | 最大差 1.42e-14 |
-| 部署 | https://stx4r.github.io/Fly/（确认响应 200） |
+| 部署 | https://stx4r.me/project/Fly-Tetris/（确认响应 200） |
 | 用户 · 访问量 | （待确认） |
 
 ### 定性成果
@@ -176,8 +176,8 @@
 
 | 类别 | 链接 |
 |---|---|
-| GitHub 仓库 | [stx4R/Fly](https://github.com/stx4R/Fly) |
-| 部署网址 | https://stx4r.github.io/Fly/ |
+| GitHub 仓库 | [stx4R/Fly-Tetris](https://github.com/stx4R/Fly-Tetris) |
+| 部署网址 | https://stx4r.me/project/Fly-Tetris/ |
 | 分阶段文档 | `docs/stage3-calibration.md` ~ `docs/stage8-web-v1.md`（6 篇） |
 | 数据来源 | [neuPrint](https://neuprint.janelia.org) hemibrain v1.2.1 |
 
