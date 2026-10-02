@@ -161,7 +161,7 @@
 | 区分 | リンク |
 |---|---|
 | GitHub リポジトリ | [stx4R/BoardinG](https://github.com/stx4R/BoardinG)（非公開） |
-| 公開URL | https://stx4r.github.io/BoardinG/ |
+| 公開URL | https://stx4r.me/project/BoardinG/ |
 | 再現 | `node tools/bench.mjs --runs 30` · `node tools/experiments.mjs bound / split / disruption / train` |
 
 ### 構成

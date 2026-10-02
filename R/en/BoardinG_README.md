@@ -161,7 +161,7 @@ The model's validity was checked against the relative order reported in the lite
 | Category | Link |
 |---|---|
 | GitHub Repository | [stx4R/BoardinG](https://github.com/stx4R/BoardinG) (private) |
-| Live URL | https://stx4r.github.io/BoardinG/ |
+| Live URL | https://stx4r.me/project/BoardinG/ |
 | Reproduce | `node tools/bench.mjs --runs 30` · `node tools/experiments.mjs bound / split / disruption / train` |
 
 ### Structure
