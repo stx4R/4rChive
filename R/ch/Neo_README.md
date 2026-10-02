@@ -177,7 +177,7 @@
 | 类别 | 链接 |
 |---|---|
 | GitHub 仓库 | [stx4R/Neo](https://github.com/stx4R/Neo)（私有） |
-| 部署网址 | https://neo-tau-six.vercel.app |
+| 部署网址 | https://stx4r.me/project/Neo |
 
 ### 数据流
 

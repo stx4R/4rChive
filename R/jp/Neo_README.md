@@ -177,7 +177,7 @@
 | 区分 | リンク |
 |---|---|
 | GitHub リポジトリ | [stx4R/Neo](https://github.com/stx4R/Neo)（非公開） |
-| 公開URL | https://neo-tau-six.vercel.app |
+| 公開URL | https://stx4r.me/project/Neo |
 
 ### データフロー
 

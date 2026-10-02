@@ -177,7 +177,7 @@
 | 구분 | 링크 |
 |---|---|
 | GitHub 저장소 | [stx4R/Neo](https://github.com/stx4R/Neo) (비공개) |
-| 배포 URL | https://neo-tau-six.vercel.app |
+| 배포 URL | https://stx4r.me/project/Neo |
 
 ### 데이터 흐름
 

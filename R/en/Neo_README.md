@@ -177,7 +177,7 @@ The second row is subtle. For a standing obligation, labeling it "overdue" once 
 | Category | Link |
 |---|---|
 | GitHub Repository | [stx4R/Neo](https://github.com/stx4R/Neo) (private) |
-| Live URL | https://neo-tau-six.vercel.app |
+| Live URL | https://stx4r.me/project/Neo |
 
 ### Data Flow
 
