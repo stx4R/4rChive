@@ -147,7 +147,7 @@ This is a Lipschitz bound that uses the fact that tanh, sigmoid and ReLU all hav
 | Category | Link |
 |---|---|
 | GitHub Repository | [stx4R/NeuralVisualizer](https://github.com/stx4R/NeuralVisualizer) (private) |
-| Live URL | https://stx4r.github.io/NeuralVisualizer/ |
+| Live URL | https://stx4r.me/project/NeuralVisualizer/ |
 | Engine tests | `tests/run.html` in the repository (open it with a static server and check the console) |
 
 ### Structure

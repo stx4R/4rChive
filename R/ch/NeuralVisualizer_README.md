@@ -147,7 +147,7 @@ R[l] = ‖W[l]‖∞ · R[l-1] + ε · max(|a[l-1]|, 1)
 | 类别 | 链接 |
 |---|---|
 | GitHub 仓库 | [stx4R/NeuralVisualizer](https://github.com/stx4R/NeuralVisualizer)（私有） |
-| 部署网址 | https://stx4r.github.io/NeuralVisualizer/ |
+| 部署网址 | https://stx4r.me/project/NeuralVisualizer/ |
 | 引擎测试 | 仓库中的 `tests/run.html`（用静态服务器打开，查看控制台） |
 
 ### 结构

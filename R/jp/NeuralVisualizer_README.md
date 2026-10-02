@@ -147,7 +147,7 @@ tanh・sigmoid・ReLU のいずれも導関数の絶対値が1以下であると
 | 区分 | リンク |
 |---|---|
 | GitHub リポジトリ | [stx4R/NeuralVisualizer](https://github.com/stx4R/NeuralVisualizer)（非公開） |
-| 公開URL | https://stx4r.github.io/NeuralVisualizer/ |
+| 公開URL | https://stx4r.me/project/NeuralVisualizer/ |
 | エンジンテスト | リポジトリの `tests/run.html`（静的サーバーで開いてコンソールを確認） |
 
 ### 構成

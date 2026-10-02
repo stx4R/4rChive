@@ -147,7 +147,7 @@ tanh·sigmoid·ReLU 모두 도함수의 절댓값이 1 이하라는 성질을 �
 | 구분 | 링크 |
 |---|---|
 | GitHub 저장소 | [stx4R/NeuralVisualizer](https://github.com/stx4R/NeuralVisualizer) (비공개) |
-| 배포 URL | https://stx4r.github.io/NeuralVisualizer/ |
+| 배포 URL | https://stx4r.me/project/NeuralVisualizer/ |
 | 엔진 테스트 | 저장소 `tests/run.html` (정적 서버로 열고 콘솔 확인) |
 
 ### 구조
