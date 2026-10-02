@@ -122,7 +122,6 @@
 | 类别 | 链接 |
 |---|---|
 | GitHub 仓库 | [stx4R/HowTo](https://github.com/stx4R/HowTo)（私有） |
-| 部署网址 | https://stx4r.github.io/HowTo/ （截至2026.09无法访问，待确认） |
 | 成果 | 研究结果报告、经营（市场进入）报告、探究海报、图书海报 |
 
 ### 系统架构图

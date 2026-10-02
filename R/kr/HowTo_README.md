@@ -122,7 +122,6 @@
 | 구분 | 링크 |
 |---|---|
 | GitHub 저장소 | [stx4R/HowTo](https://github.com/stx4R/HowTo) (비공개) |
-| 배포 URL | https://stx4r.github.io/HowTo/ (2026.09 기준 접속 불가, 확인 필요) |
 | 결과물 | 연구 결과보고서, 경영(시장 진입) 보고서, 탐구 포스터, 북 포스터 |
 
 ### 시스템 구성도

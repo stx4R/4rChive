@@ -122,7 +122,6 @@ Respondents who would not pay for it split between "I can throw things out witho
 | Category | Link |
 |---|---|
 | GitHub Repository | [stx4R/HowTo](https://github.com/stx4R/HowTo) (private) |
-| Live URL | https://stx4r.github.io/HowTo/ (unreachable as of 2026.09, to be confirmed) |
 | Outputs | Research report, business (market entry) report, research poster, book poster |
 
 ### System Architecture

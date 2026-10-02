@@ -122,7 +122,6 @@
 | 区分 | リンク |
 |---|---|
 | GitHub リポジトリ | [stx4R/HowTo](https://github.com/stx4R/HowTo)（非公開） |
-| 公開URL | https://stx4r.github.io/HowTo/ （2026.09 時点でアクセス不可、要確認） |
 | 成果物 | 研究結果報告書、経営（市場参入）報告書、探究ポスター、ブックポスター |
 
 ### システム構成図
