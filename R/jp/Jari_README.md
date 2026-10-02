@@ -130,7 +130,7 @@ Web 版の割り当てコードをそのまま Node.js に移し、生徒ごと�
 | 区分 | リンク |
 |---|---|
 | GitHub リポジトリ | [stx4R/Jari](https://github.com/stx4R/Jari)（非公開） |
-| 公開URL | https://stx4r.github.io/Jari/ |
+| 公開URL | https://stx4r.me/project/Jari/ |
 | 実行ファイル | リポジトリ内の `Jari.exe`（Windows） |
 | シミュレーション | [`seat_sim.js`](../assets/jp/Jari/seat_sim.js)、[`seat_sim2.js`](../assets/jp/Jari/seat_sim2.js) |
 

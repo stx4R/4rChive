@@ -130,7 +130,7 @@ When the number of students equals the number of seats, about half get their fir
 | Category | Link |
 |---|---|
 | GitHub Repository | [stx4R/Jari](https://github.com/stx4R/Jari) (private) |
-| Live URL | https://stx4r.github.io/Jari/ |
+| Live URL | https://stx4r.me/project/Jari/ |
 | Executable | `Jari.exe` in the repository (Windows) |
 | Simulations | [`seat_sim.js`](../assets/en/Jari/seat_sim.js), [`seat_sim2.js`](../assets/en/Jari/seat_sim2.js) |
 

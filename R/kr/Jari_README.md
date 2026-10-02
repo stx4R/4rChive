@@ -130,7 +130,7 @@
 | 구분 | 링크 |
 |---|---|
 | GitHub 저장소 | [stx4R/Jari](https://github.com/stx4R/Jari) (비공개) |
-| 배포 URL | https://stx4r.github.io/Jari/ |
+| 배포 URL | https://stx4r.me/project/Jari/ |
 | 실행 파일 | 저장소의 `Jari.exe` (Windows) |
 | 모의실험 | [`seat_sim.js`](../assets/kr/Jari/seat_sim.js), [`seat_sim2.js`](../assets/kr/Jari/seat_sim2.js) |
 

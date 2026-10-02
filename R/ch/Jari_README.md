@@ -130,7 +130,7 @@
 | 类别 | 链接 |
 |---|---|
 | GitHub 仓库 | [stx4R/Jari](https://github.com/stx4R/Jari)（私有） |
-| 部署网址 | https://stx4r.github.io/Jari/ |
+| 部署网址 | https://stx4r.me/project/Jari/ |
 | 可执行文件 | 仓库中的 `Jari.exe`（Windows） |
 | 模拟实验 | [`seat_sim.js`](../assets/ch/Jari/seat_sim.js)、[`seat_sim2.js`](../assets/ch/Jari/seat_sim2.js) |
 
