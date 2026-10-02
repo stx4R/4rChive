@@ -159,7 +159,7 @@ The samples for check 5 include 47/100 antipodal pairs (`dot < 0`). Check 6 also
 | Category | Link |
 |---|---|
 | GitHub Repository | [stx4R/RotLab](https://github.com/stx4R/RotLab) (private) |
-| Live URL | https://stx4r.github.io/RotLab/ |
+| Live URL | https://stx4r.me/project/RotLab/ |
 | Verification | `npm install && npm run verify` (Node) · `tests/run.html` (browser console) · the app's `✓6` button |
 
 ### Structure

@@ -159,7 +159,7 @@ slerp(q₀,q₁,t) = ( sin((1−t)Ω)·q₀ + sin(tΩ)·q₁ ) / sin Ω,   Ω = 
 | 类别 | 链接 |
 |---|---|
 | GitHub 仓库 | [stx4R/RotLab](https://github.com/stx4R/RotLab)（非公开） |
-| 部署网址 | https://stx4r.github.io/RotLab/ |
+| 部署网址 | https://stx4r.me/project/RotLab/ |
 | 验证 | `npm install && npm run verify`（Node） · `tests/run.html`（浏览器控制台） · 应用内的 `✓6` 按钮 |
 
 ### 结构
