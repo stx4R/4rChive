@@ -131,7 +131,7 @@ The roster for this event had 133 participants and staff from three schools: Dae
 | Category | Link |
 |---|---|
 | GitHub Repository | [stx4R/CSCK](https://github.com/stx4R/CSCK) (private) |
-| Live URL | https://csck.vercel.app |
+| Live URL | https://stx4r.me/project/CSCK |
 
 <p align="center"><img src="../assets/en/CSCK/unlock.png" width="70%" alt="Dashboard lock keypad"></p>
 

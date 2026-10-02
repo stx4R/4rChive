@@ -131,7 +131,7 @@
 | 类别 | 链接 |
 |---|---|
 | GitHub 仓库 | [stx4R/CSCK](https://github.com/stx4R/CSCK)（私有） |
-| 部署网址 | https://csck.vercel.app |
+| 部署网址 | https://stx4r.me/project/CSCK |
 
 <p align="center"><img src="../assets/ch/CSCK/unlock.png" width="70%" alt="仪表盘解锁键盘"></p>
 

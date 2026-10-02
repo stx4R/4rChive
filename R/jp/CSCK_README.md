@@ -131,7 +131,7 @@
 | 区分 | リンク |
 |---|---|
 | GitHub リポジトリ | [stx4R/CSCK](https://github.com/stx4R/CSCK)（非公開） |
-| 公開URL | https://csck.vercel.app |
+| 公開URL | https://stx4r.me/project/CSCK |
 
 <p align="center"><img src="../assets/jp/CSCK/unlock.png" width="70%" alt="ダッシュボードのロック解除キーパッド"></p>
 

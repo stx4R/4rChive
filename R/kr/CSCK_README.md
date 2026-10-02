@@ -131,7 +131,7 @@
 | 구분 | 링크 |
 |---|---|
 | GitHub 저장소 | [stx4R/CSCK](https://github.com/stx4R/CSCK) (비공개) |
-| 배포 URL | https://csck.vercel.app |
+| 배포 URL | https://stx4r.me/project/CSCK |
 
 <p align="center"><img src="../assets/kr/CSCK/unlock.png" width="70%" alt="대시보드 잠금 키패드"></p>
 
