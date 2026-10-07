@@ -1,6 +1,6 @@
 # CSCK
 
-<p align="center"><img src="../assets/ch/CSCK/cover.png" alt="CSCK 封面图" width="100%"></p>
+<p align="center"><img src="../../assets/R/ch/CSCK/cover.png" alt="CSCK 封面图" width="100%"></p>
 
 > 放在第三届 Oryang 模拟国会会场入口的公用平板上，让初次接触的人无需任何说明、3秒内完成签到的签到自助终端
 
@@ -41,7 +41,7 @@
 
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/ch/CSCK/kiosk.png" width="90%" alt="签到自助终端界面"></p>
+<p align="center"><img src="../../assets/R/ch/CSCK/kiosk.png" width="90%" alt="签到自助终端界面"></p>
 <p align="center"><sub>基于本地构建截图。名单替换为12名虚构参与者。图中已输入到“010-123”，由于没有服务器配置，标题栏显示离线模式警告。</sub></p>
 
 ### 已实现功能
@@ -133,7 +133,7 @@
 | GitHub 仓库 | [stx4R/CSCK](https://github.com/stx4R/CSCK)（私有） |
 | 部署网址 | https://stx4r.me/project/CSCK |
 
-<p align="center"><img src="../assets/ch/CSCK/unlock.png" width="70%" alt="仪表盘解锁键盘"></p>
+<p align="center"><img src="../../assets/R/ch/CSCK/unlock.png" width="70%" alt="仪表盘解锁键盘"></p>
 
 ### 界面流程
 

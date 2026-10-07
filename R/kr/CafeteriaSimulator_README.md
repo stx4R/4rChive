@@ -1,6 +1,6 @@
 # CafeteriaSimulator
 
-<p align="center"><img src="../assets/kr/CafeteriaSimulator/cover.png" alt="CafeteriaSimulator 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/CafeteriaSimulator/cover.png" alt="CafeteriaSimulator 대표 이미지" width="100%"></p>
 
 > 삼성 휴먼테크 논문에서 쓴 사회력 모델을 JavaScript로 다시 구현해 논문의 기준값을 재현하고 대전대신고 캠퍼스 전체로 넓혀 학생 1,020명이 급식실 문 하나를 지나가는 점심 이동을 계산하는 군중 시뮬레이터
 
@@ -35,10 +35,10 @@
 
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/CafeteriaSimulator/main.png" width="90%" alt="복도 나눠 걷기, 출발 간격 30초, 5분 시점"></p>
+<p align="center"><img src="../../assets/R/kr/CafeteriaSimulator/main.png" width="90%" alt="복도 나눠 걷기, 출발 간격 30초, 5분 시점"></p>
 <p align="center">
-  <img src="../assets/kr/CafeteriaSimulator/jam.png" width="49%" alt="출발 간격 20초, 가까운 길, 10분 시점">
-  <img src="../assets/kr/CafeteriaSimulator/result.png" width="49%" alt="기본 설정 결과 요약"></p>
+  <img src="../../assets/R/kr/CafeteriaSimulator/jam.png" width="49%" alt="출발 간격 20초, 가까운 길, 10분 시점">
+  <img src="../../assets/R/kr/CafeteriaSimulator/result.png" width="49%" alt="기본 설정 결과 요약"></p>
 <p align="center"><sub>로컬 빌드에서 캡처. 위: 복도 나눠 걷기·출발 간격 30초, 5분 시점(A 복도 191명, B 복도 183명). 아래 왼쪽: 출발 간격 20초·가까운 길, 10분 시점을 위에서 본 모습(1,020명 전원이 B 복도로 몰리고 문 앞 군중 압력 P₉₅ 9.32). 아래 오른쪽: 기본 설정 결과 요약(23분 7초, 6회 반복 막대)</sub></p>
 
 ### 구현 기능

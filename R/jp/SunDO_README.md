@@ -1,6 +1,6 @@
 # SunDO
 
-<p align="center"><img src="../assets/jp/SunDO/cover.png" alt="SunDO のメイン画像" width="100%"></p>
+<p align="center"><img src="../../assets/R/jp/SunDO/cover.png" alt="SunDO のメイン画像" width="100%"></p>
 
 > 生徒会・自律生活部の指導記録を紙から移した学校専用の PWA。サーバーを持たず Firestore のセキュリティルールだけで権限を強制し、そのルールが実際に拒否するかどうかを変異による逆検証で証明した
 
@@ -36,7 +36,7 @@
 
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/jp/SunDO/login.png" width="36%" alt="SunDO のログイン画面"></p>
+<p align="center"><img src="../../assets/R/jp/SunDO/login.png" width="36%" alt="SunDO のログイン画面"></p>
 <p align="center"><sub>公開サイトのログイン画面。ログイン後の画面は実際の生徒情報を含むため、掲載していない。</sub></p>
 
 ### 実装した機能

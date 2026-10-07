@@ -1,6 +1,6 @@
 # CafeteriaSimulator
 
-<p align="center"><img src="../assets/ch/CafeteriaSimulator/cover.png" alt="CafeteriaSimulator 封面图" width="100%"></p>
+<p align="center"><img src="../../assets/R/ch/CafeteriaSimulator/cover.png" alt="CafeteriaSimulator 封面图" width="100%"></p>
 
 > 用 JavaScript 重新实现三星 HumanTech 论文中使用的社会力模型并复现论文基准值，再扩展到大田大新高中整个校园，计算 1,020 名学生在午餐时间穿过食堂唯一一扇门的人群模拟器
 
@@ -35,10 +35,10 @@
 
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/ch/CafeteriaSimulator/main.png" width="90%" alt="分走两条通道，出发间隔 30 秒，第 5 分钟"></p>
+<p align="center"><img src="../../assets/R/ch/CafeteriaSimulator/main.png" width="90%" alt="分走两条通道，出发间隔 30 秒，第 5 分钟"></p>
 <p align="center">
-  <img src="../assets/ch/CafeteriaSimulator/jam.png" width="49%" alt="出发间隔 20 秒，走近路，第 10 分钟">
-  <img src="../assets/ch/CafeteriaSimulator/result.png" width="49%" alt="默认设置的结果摘要"></p>
+  <img src="../../assets/R/ch/CafeteriaSimulator/jam.png" width="49%" alt="出发间隔 20 秒，走近路，第 10 分钟">
+  <img src="../../assets/R/ch/CafeteriaSimulator/result.png" width="49%" alt="默认设置的结果摘要"></p>
 <p align="center"><sub>在本地构建中截取。上：分走两条通道、出发间隔 30 秒，第 5 分钟（A 通道 191 人，B 通道 183 人）。左下：出发间隔 20 秒、走近路，第 10 分钟的俯视画面（1,020 人全部涌向 B 通道，门前人群压力 P₉₅ 达 9.32）。右下：默认设置的结果摘要（23 分 7 秒，重复 6 次的柱状图）</sub></p>
 
 ### 已实现功能

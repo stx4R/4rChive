@@ -1,6 +1,6 @@
 # Sirius
 
-<p align="center"><img src="../assets/jp/Sirius/cover.png" alt="Sirius のメイン画像" width="100%"></p>
+<p align="center"><img src="../../assets/R/jp/Sirius/cover.png" alt="Sirius のメイン画像" width="100%"></p>
 
 > 確率と統計を、説明文ではなく判定ルールに埋め込んだドット絵のボードゲーム。バランスはシード固定のモンテカルロ法で検証し、ブースのノートPC向けに単一の exe で配布する
 
@@ -35,10 +35,10 @@
 
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/jp/Sirius/game.png" width="90%" alt="プレイ画面"></p>
+<p align="center"><img src="../../assets/R/jp/Sirius/game.png" width="90%" alt="プレイ画面"></p>
 <p align="center">
-  <img src="../assets/jp/Sirius/wager.png" width="49%" alt="ORION'S WAGER の予測ベット">
-  <img src="../assets/jp/Sirius/report-round1.png" width="49%" alt="CONSTELLATION LOG の統計レポート">
+  <img src="../../assets/R/jp/Sirius/wager.png" width="49%" alt="ORION'S WAGER の予測ベット">
+  <img src="../../assets/R/jp/Sirius/report-round1.png" width="49%" alt="CONSTELLATION LOG の統計レポート">
 </p>
 <p align="center"><sub>リポジトリの自動スクリーンショットツールでローカルにキャプチャ（シード固定）。上：プレイ画面、下左：予測ベット、下右：周期終了時の統計レポート</sub></p>
 

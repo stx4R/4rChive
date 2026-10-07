@@ -1,6 +1,6 @@
 # CSCK
 
-<p align="center"><img src="../assets/en/CSCK/cover.png" alt="CSCK cover image" width="100%"></p>
+<p align="center"><img src="../../assets/R/en/CSCK/cover.png" alt="CSCK cover image" width="100%"></p>
 
 > An attendance kiosk for the shared tablet at the entrance of the 3rd Oryang Mock National Assembly, designed so that someone seeing it for the first time can check in within 3 seconds without any explanation
 
@@ -41,7 +41,7 @@ The roster for this event had 133 participants and staff from three schools: Dae
 
 ## 3. Key Features & Contributions
 
-<p align="center"><img src="../assets/en/CSCK/kiosk.png" width="90%" alt="Attendance kiosk screen"></p>
+<p align="center"><img src="../../assets/R/en/CSCK/kiosk.png" width="90%" alt="Attendance kiosk screen"></p>
 <p align="center"><sub>Captured from a local build. The roster was replaced with 12 fictional participants. This is the state after typing "010-123"; with no server configured, the header shows an offline-mode warning.</sub></p>
 
 ### Implemented Features
@@ -133,7 +133,7 @@ The roster for this event had 133 participants and staff from three schools: Dae
 | GitHub Repository | [stx4R/CSCK](https://github.com/stx4R/CSCK) (private) |
 | Live URL | https://stx4r.me/project/CSCK |
 
-<p align="center"><img src="../assets/en/CSCK/unlock.png" width="70%" alt="Dashboard lock keypad"></p>
+<p align="center"><img src="../../assets/R/en/CSCK/unlock.png" width="70%" alt="Dashboard lock keypad"></p>
 
 ### Screen Flow
 

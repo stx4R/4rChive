@@ -1,6 +1,6 @@
 # PigScape.
 
-<p align="center"><img src="../assets/kr/PigScape/cover.png" alt="PigScape. 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/PigScape/cover.png" alt="PigScape. 대표 이미지" width="100%"></p>
 
 > 기초대사량 계산, 다이어트 상식 퀴즈, 개인 기록 화면을 묶은 다이어트 도우미 웹 "돼탈출"을 팀 프로젝트로 기획하고 기술 파트에서 세 번에 걸쳐 다시 만든 프로젝트
 
@@ -33,7 +33,7 @@
 
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/PigScape/home.png" width="80%" alt="돼탈출 홈"></p>
+<p align="center"><img src="../../assets/R/kr/PigScape/home.png" width="80%" alt="돼탈출 홈"></p>
 <p align="center"><sub>로컬에서 캡처(3차 ReReWork). BMI 구간별 카드 세 장은 마우스를 올리거나 누르면 뒤집혀 구간별 운동 팁을 보여 준다</sub></p>
 
 | 페이지 | 기능 |
@@ -45,7 +45,7 @@
 | 내 페이지 | 로그인 후 대시보드: BMI 변화 추이 그래프, 건강 지표, 오늘의 목표 진행도, 달성 배지 |
 | 프리미엄 | 구독 요금제 3종과 구독료 일부를 상금으로 돌리는 챌린지 구상 |
 
-<p align="center"><img src="../assets/kr/PigScape/bmr.png" width="80%" alt="BMR 계산 결과"></p>
+<p align="center"><img src="../../assets/R/kr/PigScape/bmr.png" width="80%" alt="BMR 계산 결과"></p>
 <p align="center"><sub>BMR 계산 결과 (예시 입력: 남성 · 17세 · 175 cm · 72 kg). 막대의 세 구간과 두 화살표로 연령대 평균과의 차이를 보여 준다</sub></p>
 
 ### BMR 계산 방식
@@ -127,7 +127,7 @@
 | 배포 URL | (확인 필요) |
 | 산출물 | 정적 웹 6페이지(ReReWork), Flask 버전 2종, 로고·운동 영상 8개, 페이지별 기획 명세 |
 
-<p align="center"><img src="../assets/kr/PigScape/quiz.png" width="48%" alt="돼지니어스 결과"> <img src="../assets/kr/PigScape/mypage.png" width="48%" alt="내 페이지"></p>
+<p align="center"><img src="../../assets/R/kr/PigScape/quiz.png" width="48%" alt="돼지니어스 결과"> <img src="../../assets/R/kr/PigScape/mypage.png" width="48%" alt="내 페이지"></p>
 <p align="center"><sub>왼쪽: 돼지니어스 결과(문항별 정답·해설). 오른쪽: 내 페이지 대시보드(고정 목업 데이터, 캡처 시 이름은 "사용자"로 바꿈)</sub></p>
 
 ---

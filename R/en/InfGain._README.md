@@ -1,6 +1,6 @@
 # InfGain.
 
-<p align="center"><img src="../assets/en/InfGain/cover.png" alt="InfGain. cover image" width="100%"></p>
+<p align="center"><img src="../../assets/R/en/InfGain/cover.png" alt="InfGain. cover image" width="100%"></p>
 
 > An algebra inquiry that checked how the high school logarithm function lets a decision tree pick "the best question," by computing every entropy and information gain by hand on the 14 Play Tennis samples. The result was built as a 3D tree model with entropy shown in color
 
@@ -81,7 +81,7 @@ This is a hand-calculation inquiry, so instead of tools this section lists the m
 
 ### 3D Model
 
-<p align="center"><img src="../assets/en/InfGain/model.png" width="90%" alt="Render of the 3D decision tree model"></p>
+<p align="center"><img src="../../assets/R/en/InfGain/model.png" width="90%" alt="Render of the 3D decision tree model"></p>
 <p align="center"><sub>A render of the Blender model left on my machine (the name and student ID on the base are hidden). Red spheres are internal nodes that need another split; blue spheres are leaf nodes where classification into a single class is complete</sub></p>
 
 | Model element | Meaning |

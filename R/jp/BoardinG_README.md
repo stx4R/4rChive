@@ -1,6 +1,6 @@
 # BoardinG
 
-<p align="center"><img src="../assets/jp/BoardinG/cover.png" alt="BoardinG 代表画像" width="100%"></p>
+<p align="center"><img src="../../assets/R/jp/BoardinG/cover.png" alt="BoardinG 代表画像" width="100%"></p>
 
 > 「飛行機や列車に人を最も速く乗せる順番は何か」を、通路の物理・荷物の収納・座席シャッフルまでモデル化したエージェントベースのシミュレーターで検証したプロジェクト
 
@@ -32,8 +32,8 @@
 
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/jp/BoardinG/run.png" width="90%" alt="搭乗進行中の画面"></p>
-<p align="center"><img src="../assets/jp/BoardinG/compare.png" width="70%" alt="アルゴリズムの30回比較結果"></p>
+<p align="center"><img src="../../assets/R/jp/BoardinG/run.png" width="90%" alt="搭乗進行中の画面"></p>
+<p align="center"><img src="../../assets/R/jp/BoardinG/compare.png" width="70%" alt="アルゴリズムの30回比較結果"></p>
 <p align="center"><sub>ローカルでキャプチャ。上：ランダム搭乗を60倍速で再生中（通路の移動・荷物の収納・座席シャッフルが色分けされ、下に着席曲線と通路の混雑ヒートマップ）。下：「全体を比較する」の30回反復の結果</sub></p>
 
 ### 何をモデル化したか

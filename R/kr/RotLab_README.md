@@ -1,6 +1,6 @@
 # RotLab
 
-<p align="center"><img src="../assets/kr/RotLab/cover.png" alt="RotLab 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/RotLab/cover.png" alt="RotLab 대표 이미지" width="100%"></p>
 
 > 오일러각·회전행렬·쿼터니언을 라이브러리 없이 직접 구현하고 짐벌락과 보간 방식의 차이를 3D 화면과 숫자로 동시에 보여 주는 회전 변환 실험실
 
@@ -33,10 +33,10 @@ Three.js는 렌더링(씬·카메라·조명·메시)에만 썼다. **회전 수
 
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/RotLab/normal.png" width="90%" alt="정상 자세, det E 0.94"></p>
+<p align="center"><img src="../../assets/R/kr/RotLab/normal.png" width="90%" alt="정상 자세, det E 0.94"></p>
 <p align="center">
-  <img src="../assets/kr/RotLab/gimbal.png" width="49%" alt="짐벌락, det E 0">
-  <img src="../assets/kr/RotLab/interp.png" width="49%" alt="오일러 선형보간 대 slerp 결과"></p>
+  <img src="../../assets/R/kr/RotLab/gimbal.png" width="49%" alt="짐벌락, det E 0">
+  <img src="../../assets/R/kr/RotLab/interp.png" width="49%" alt="오일러 선형보간 대 slerp 결과"></p>
 <p align="center"><sub>로컬에서 캡처. 위: 정상 자세(det E 0.9397, 자유도 3). 아래 왼쪽: θ=90° 짐벌락(파랑 Z링과 주황 X링이 한 평면에 겹치고 det E 0.0000, 자유도 2). 아래 오른쪽: 극 통과 보간 결과(오일러 경로 초과 +115.90%)</sub></p>
 
 ### 구현 기능

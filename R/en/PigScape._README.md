@@ -1,6 +1,6 @@
 # PigScape.
 
-<p align="center"><img src="../assets/en/PigScape/cover.png" alt="PigScape. cover image" width="100%"></p>
+<p align="center"><img src="../../assets/R/en/PigScape/cover.png" alt="PigScape. cover image" width="100%"></p>
 
 > A team project that planned 「돼탈출」 ("Pig Escape"), a diet helper website bundling a basal metabolic rate calculator, a diet facts quiz and a personal records page, which I rebuilt three times on the tech side
 
@@ -33,7 +33,7 @@ There is no repository. This report is based on the source code of the three ver
 
 ## 3. Key Features & Contributions
 
-<p align="center"><img src="../assets/en/PigScape/home.png" width="80%" alt="Pig Escape home"></p>
+<p align="center"><img src="../../assets/R/en/PigScape/home.png" width="80%" alt="Pig Escape home"></p>
 <p align="center"><sub>Captured locally (v3 ReReWork). The three BMI range cards flip over on hover or tap to show exercise tips for each range</sub></p>
 
 | Page | Features |
@@ -45,7 +45,7 @@ There is no repository. This report is based on the source code of the three ver
 | My Page | Dashboard after login: BMI trend graph, health indicators, today's goal progress, achievement badges |
 | Premium | 3 subscription plans and an idea for challenges that pay out part of the subscription fees as prize money |
 
-<p align="center"><img src="../assets/en/PigScape/bmr.png" width="80%" alt="BMR calculation result"></p>
+<p align="center"><img src="../../assets/R/en/PigScape/bmr.png" width="80%" alt="BMR calculation result"></p>
 <p align="center"><sub>BMR result (sample input: male · 17 · 175 cm · 72 kg). The three bar segments and two arrows show the gap from the age-group average</sub></p>
 
 ### How BMR Is Calculated
@@ -127,7 +127,7 @@ There is no repository. This report is based on the source code of the three ver
 | Live URL | (to be confirmed) |
 | Deliverables | 6-page static website (ReReWork), 2 Flask versions, logo and workout videos (8), planning specs for each page |
 
-<p align="center"><img src="../assets/en/PigScape/quiz.png" width="48%" alt="Pigenius results"> <img src="../assets/en/PigScape/mypage.png" width="48%" alt="My Page"></p>
+<p align="center"><img src="../../assets/R/en/PigScape/quiz.png" width="48%" alt="Pigenius results"> <img src="../../assets/R/en/PigScape/mypage.png" width="48%" alt="My Page"></p>
 <p align="center"><sub>Left: Pigenius results (answers and explanations per question). Right: My Page dashboard (fixed mockup data; the name was changed to "User" for the capture)</sub></p>
 
 ---

@@ -1,6 +1,6 @@
 # Jari
 
-<p align="center"><img src="../assets/kr/Jari/cover.png" alt="Jari 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/Jari/cover.png" alt="Jari 대표 이미지" width="100%"></p>
 
 > 학생마다 5지망까지 원하는 자리를 받고, Top Trading Cycles(TTC) 알고리즘으로 자리를 맞교환해 배정하는 교실 자리 배치 프로그램
 
@@ -33,7 +33,7 @@
 
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/Jari/web.png" width="90%" alt="웹판 배정 결과 화면"></p>
+<p align="center"><img src="../../assets/R/kr/Jari/web.png" width="90%" alt="웹판 배정 결과 화면"></p>
 <p align="center"><sub>웹판, 인원수 모드 24명. 1·2번은 고정석, 31~36번은 제외석으로 두고 배정한 결과</sub></p>
 
 ### 구현 기능
@@ -55,7 +55,7 @@
 
 ### 정량적 성과
 
-웹판의 배정 코드를 그대로 Node.js로 옮겨 학생마다 무작위 5지망을 주고 5,000회씩 돌린 결과다(2026.09 보고서 작성 중 측정, 스크립트는 [`assets/kr/Jari/seat_sim.js`](../assets/kr/Jari/seat_sim.js)).
+웹판의 배정 코드를 그대로 Node.js로 옮겨 학생마다 무작위 5지망을 주고 5,000회씩 돌린 결과다(2026.09 보고서 작성 중 측정, 스크립트는 [`assets/R/kr/Jari/seat_sim.js`](../../assets/R/kr/Jari/seat_sim.js)).
 
 | 조건 (학생 / 좌석) | 1지망 배정 | 3지망 이내 | 5지망 이내 |
 |---|---|---|---|
@@ -103,7 +103,7 @@
 
 **해결** 웹판에서는 사용 가능한 좌석을 섞은 뒤 학생들에게 나눠 주도록 바꿨다(무작위 초기 배정).
 
-**결과** 같은 조건에서 1~5번과 26~30번의 1지망 배정률이 31.6%와 31.8%로 같아졌다. 참고로 무작위 초기 배정을 한 TTC는 무작위 순서로 한 명씩 고르게 하는 방식(무작위 순차 독재)과 결과 분포가 같다는 것이 알려져 있다(Abdulkadiroğlu & Sönmez, 1998). 다만 위의 섞기 편향 때문에 현재 구현은 완전히 균등하지는 않다. 수치는 보고서 작성 중 모의실험([`seat_sim2.js`](../assets/kr/Jari/seat_sim2.js))으로 얻었다.
+**결과** 같은 조건에서 1~5번과 26~30번의 1지망 배정률이 31.6%와 31.8%로 같아졌다. 참고로 무작위 초기 배정을 한 TTC는 무작위 순서로 한 명씩 고르게 하는 방식(무작위 순차 독재)과 결과 분포가 같다는 것이 알려져 있다(Abdulkadiroğlu & Sönmez, 1998). 다만 위의 섞기 편향 때문에 현재 구현은 완전히 균등하지는 않다. 수치는 보고서 작성 중 모의실험([`seat_sim2.js`](../../assets/R/kr/Jari/seat_sim2.js))으로 얻었다.
 
 ### ② 교실은 학생 수만큼만 책상이 있지 않다
 
@@ -132,7 +132,7 @@
 | GitHub 저장소 | [stx4R/Jari](https://github.com/stx4R/Jari) (비공개) |
 | 배포 URL | https://stx4r.me/project/Jari/ |
 | 실행 파일 | 저장소의 `Jari.exe` (Windows) |
-| 모의실험 | [`seat_sim.js`](../assets/kr/Jari/seat_sim.js), [`seat_sim2.js`](../assets/kr/Jari/seat_sim2.js) |
+| 모의실험 | [`seat_sim.js`](../../assets/R/kr/Jari/seat_sim.js), [`seat_sim2.js`](../../assets/R/kr/Jari/seat_sim2.js) |
 
 ### 알고리즘 흐름
 

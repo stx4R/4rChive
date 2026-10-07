@@ -1,6 +1,6 @@
 # CafeteriaSimulator
 
-<p align="center"><img src="../assets/en/CafeteriaSimulator/cover.png" alt="CafeteriaSimulator cover image" width="100%"></p>
+<p align="center"><img src="../../assets/R/en/CafeteriaSimulator/cover.png" alt="CafeteriaSimulator cover image" width="100%"></p>
 
 > A crowd simulator that re-implements the social force model used in the Samsung HumanTech paper in JavaScript, reproduces the paper's baseline, and then scales it up to the whole Daejeon Daeshin High School campus to compute the lunchtime rush of 1,020 students through a single cafeteria door
 
@@ -35,10 +35,10 @@ This repository is the paper's supplement. First, I implemented the same model f
 
 ## 3. Key Features & Contributions
 
-<p align="center"><img src="../assets/en/CafeteriaSimulator/main.png" width="90%" alt="Split corridors, 30 s release interval, at 5 minutes"></p>
+<p align="center"><img src="../../assets/R/en/CafeteriaSimulator/main.png" width="90%" alt="Split corridors, 30 s release interval, at 5 minutes"></p>
 <p align="center">
-  <img src="../assets/en/CafeteriaSimulator/jam.png" width="49%" alt="20 s release interval, shortest path, at 10 minutes">
-  <img src="../assets/en/CafeteriaSimulator/result.png" width="49%" alt="Result summary with default settings"></p>
+  <img src="../../assets/R/en/CafeteriaSimulator/jam.png" width="49%" alt="20 s release interval, shortest path, at 10 minutes">
+  <img src="../../assets/R/en/CafeteriaSimulator/result.png" width="49%" alt="Result summary with default settings"></p>
 <p align="center"><sub>Captured from a local build. Top: split corridors with a 30 s release interval, at 5 minutes (191 on corridor A, 183 on corridor B). Bottom left: 20 s interval on the shortest path, seen from above at 10 minutes (all 1,020 crowd into corridor B and crowd pressure P₉₅ at the door reaches 9.32). Bottom right: result summary with default settings (23 min 7 s, bars of the 6 repeat runs)</sub></p>
 
 ### Implemented Features

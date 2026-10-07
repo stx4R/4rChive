@@ -1,6 +1,6 @@
 # L-INK Interview
 
-<p align="center"><img src="../assets/kr/L-INK-Interview/cover.png" alt="L-INK-Interview 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/L-INK-Interview/cover.png" alt="L-INK-Interview 대표 이미지" width="100%"></p>
 
 > 동아리 신입 부원 면접을 여러 면접관이 한 화면에서 진행하고, 점수·질문 순서·합격 투표를 실시간으로 맞추는 면접 평가 웹앱 「L-INK Eval」
 
@@ -31,7 +31,7 @@ L-INK는 대전대신고의 문·이과 융합 동아리다. 신입 부원 면�
 
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/L-INK-Interview/main.png" width="90%" alt="면접 진행 화면"></p>
+<p align="center"><img src="../../assets/R/kr/L-INK-Interview/main.png" width="90%" alt="면접 진행 화면"></p>
 <p align="center"><sub>로컬 빌드로 캡처. 지원자 정보·채팅은 모두 가상 데이터로 바꿔 렌더링했다.</sub></p>
 
 ### 구현 기능

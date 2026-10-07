@@ -1,6 +1,6 @@
 # BoardinG
 
-<p align="center"><img src="../assets/en/BoardinG/cover.png" alt="BoardinG cover image" width="100%"></p>
+<p align="center"><img src="../../assets/R/en/BoardinG/cover.png" alt="BoardinG cover image" width="100%"></p>
 
 > A project that tests "what order gets people onto a plane or train fastest" with an agent-based simulator that models aisle physics, luggage stowing and seat shuffles
 
@@ -32,8 +32,8 @@ There are no external dependencies. `package.json` contains only scripts.
 
 ## 3. Key Features & Contributions
 
-<p align="center"><img src="../assets/en/BoardinG/run.png" width="90%" alt="Boarding in progress"></p>
-<p align="center"><img src="../assets/en/BoardinG/compare.png" width="70%" alt="30-run algorithm comparison results"></p>
+<p align="center"><img src="../../assets/R/en/BoardinG/run.png" width="90%" alt="Boarding in progress"></p>
+<p align="center"><img src="../../assets/R/en/BoardinG/compare.png" width="70%" alt="30-run algorithm comparison results"></p>
 <p align="center"><sub>Captured locally. Top: random boarding playing at 60× (aisle movement, stowing and seat shuffles are color-coded, with the seating curve and aisle congestion heatmap below). Bottom: results of 30 runs of "Compare all"</sub></p>
 
 ### What Was Modeled

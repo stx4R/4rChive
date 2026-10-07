@@ -1,6 +1,6 @@
 # RotLab
 
-<p align="center"><img src="../assets/jp/RotLab/cover.png" alt="RotLab 代表画像" width="100%"></p>
+<p align="center"><img src="../../assets/R/jp/RotLab/cover.png" alt="RotLab 代表画像" width="100%"></p>
 
 > オイラー角・回転行列・クォータニオンをライブラリなしで自作し、ジンバルロックと補間方式の違いを3D画面と数値の両方で同時に見せる回転変換の実験室
 
@@ -33,10 +33,10 @@ Three.jsはレンダリング（シーン・カメラ・ライト・メッシュ
 
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/jp/RotLab/normal.png" width="90%" alt="正常姿勢、det E 0.94"></p>
+<p align="center"><img src="../../assets/R/jp/RotLab/normal.png" width="90%" alt="正常姿勢、det E 0.94"></p>
 <p align="center">
-  <img src="../assets/jp/RotLab/gimbal.png" width="49%" alt="ジンバルロック、det E 0">
-  <img src="../assets/jp/RotLab/interp.png" width="49%" alt="オイラー線形補間とslerpの比較結果"></p>
+  <img src="../../assets/R/jp/RotLab/gimbal.png" width="49%" alt="ジンバルロック、det E 0">
+  <img src="../../assets/R/jp/RotLab/interp.png" width="49%" alt="オイラー線形補間とslerpの比較結果"></p>
 <p align="center"><sub>ローカルでキャプチャ。上：正常姿勢（det E 0.9397、自由度3）。左下：θ=90°のジンバルロック（青のZリングとオレンジのXリングが同一平面に重なり、det E 0.0000、自由度2）。右下：極通過補間の結果（オイラー経路の超過 +115.90%）</sub></p>
 
 ### 実装した機能

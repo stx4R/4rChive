@@ -1,6 +1,6 @@
 # Fly
 
-<p align="center"><img src="../assets/kr/Fly/cover.png" alt="Fly 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/Fly/cover.png" alt="Fly 대표 이미지" width="100%"></p>
 
 > 초파리 뇌 커넥톰(hemibrain)의 배선을 제약으로 둔 네트워크에 테트리스 대전을 가르치고 그 결과를 웹에 공개해 사람과 직접 겨뤄 볼 수 있게 한 연구형 프로젝트
 
@@ -41,7 +41,7 @@
 
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/Fly/versus.png" width="90%" alt="사람 vs 초파리 대전 화면"></p>
+<p align="center"><img src="../../assets/R/kr/Fly/versus.png" width="90%" alt="사람 vs 초파리 대전 화면"></p>
 <p align="center"><sub>배포된 사이트에서 캡처. 왼쪽이 사람, 오른쪽이 학습된 C0 모델. 같은 엔진, 같은 조각 순서로 둔다. 오른쪽 KEYS·LOG는 초파리가 고른 배치를 버튼 입력으로 역산해 보여 준다</sub></p>
 
 ### 커넥톰 추출 (1단계)
@@ -70,7 +70,7 @@
 
 ### 대전 웹 (8단계)
 
-<p align="center"><img src="../assets/kr/Fly/decision.png" width="90%" alt="결정 탐색 화면"></p>
+<p align="center"><img src="../../assets/R/kr/Fly/decision.png" width="90%" alt="결정 탐색 화면"></p>
 <p align="center"><sub>결정 탐색. 한 수의 후보 51개를 네트워크에 넣어 나온 DN 107개 창평균(가운데)과 모델 순위와 교사 순위를 잇는 bump chart(오른쪽)</sub></p>
 
 - **대전**: 사람은 키보드로, 초파리는 150 ms 간격으로 둔다. 추론은 조각당 한 번, 워커에서 비동기로 돈다.
@@ -90,7 +90,7 @@
 
 ### 정량적 성과
 
-<p align="center"><img src="../assets/kr/Fly/compare.png" width="90%" alt="조건 비교 화면"></p>
+<p align="center"><img src="../../assets/R/kr/Fly/compare.png" width="90%" alt="조건 비교 화면"></p>
 <p align="center"><sub>조건 비교. 플레이 지표는 초파리·교사·무작위를, 순위 지표는 학습 전·학습 후·우연을 나란히 놓았다</sub></p>
 
 **최종 모델 C0 (7단계 A-4′, 테스트 1,453 결정 · 후보 평균 40.6개, 플레이 20게임 × 1000조각 · 가비지 주입 포함)**

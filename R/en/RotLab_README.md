@@ -1,6 +1,6 @@
 # RotLab
 
-<p align="center"><img src="../assets/en/RotLab/cover.png" alt="RotLab cover image" width="100%"></p>
+<p align="center"><img src="../../assets/R/en/RotLab/cover.png" alt="RotLab cover image" width="100%"></p>
 
 > A rotation lab that implements Euler angles, rotation matrices and quaternions from scratch, without libraries, and shows gimbal lock and the difference between interpolation methods in 3D and in numbers at the same time
 
@@ -33,10 +33,10 @@ Three.js is used only for rendering (scene, camera, lights, meshes). **Not a sin
 
 ## 3. Key Features & Contributions
 
-<p align="center"><img src="../assets/en/RotLab/normal.png" width="90%" alt="Normal attitude, det E 0.94"></p>
+<p align="center"><img src="../../assets/R/en/RotLab/normal.png" width="90%" alt="Normal attitude, det E 0.94"></p>
 <p align="center">
-  <img src="../assets/en/RotLab/gimbal.png" width="49%" alt="Gimbal lock, det E 0">
-  <img src="../assets/en/RotLab/interp.png" width="49%" alt="Euler linear interpolation vs. slerp results"></p>
+  <img src="../../assets/R/en/RotLab/gimbal.png" width="49%" alt="Gimbal lock, det E 0">
+  <img src="../../assets/R/en/RotLab/interp.png" width="49%" alt="Euler linear interpolation vs. slerp results"></p>
 <p align="center"><sub>Captured locally. Top: normal attitude (det E 0.9397, 3 degrees of freedom). Bottom left: gimbal lock at θ=90° (the blue Z ring and orange X ring collapse into one plane, det E 0.0000, 2 degrees of freedom). Bottom right: pole-crossing interpolation result (Euler path excess +115.90%)</sub></p>
 
 ### Implemented Features

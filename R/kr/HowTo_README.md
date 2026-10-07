@@ -1,6 +1,6 @@
 # HowTo
 
-<p align="center"><img src="../assets/kr/HowTo/cover.png" alt="HowTo 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/HowTo/cover.png" alt="HowTo 대표 이미지" width="100%"></p>
 
 > 쓰레기 사진 한 장을 올리면 재질을 판별해 분리배출 순서와 영상을 보여주는 웹앱 「어떻게?」
 
@@ -33,9 +33,9 @@
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
 <p align="center">
-  <img src="../assets/kr/HowTo/upload.png" width="32%" alt="사진 업로드 화면">
-  <img src="../assets/kr/HowTo/residue-check.png" width="32%" alt="잔여물 확인 팝업">
-  <img src="../assets/kr/HowTo/result.png" width="32%" alt="배출 방법 안내 화면">
+  <img src="../../assets/R/kr/HowTo/upload.png" width="32%" alt="사진 업로드 화면">
+  <img src="../../assets/R/kr/HowTo/residue-check.png" width="32%" alt="잔여물 확인 팝업">
+  <img src="../../assets/R/kr/HowTo/result.png" width="32%" alt="배출 방법 안내 화면">
 </p>
 
 ### 구현 기능

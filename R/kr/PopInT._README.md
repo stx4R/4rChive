@@ -1,6 +1,6 @@
 # PopInT.
 
-<p align="center"><img src="../assets/kr/PopInT/cover.png" alt="PopInT. 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/PopInT/cover.png" alt="PopInT. 대표 이미지" width="100%"></p>
 
 > 동물 무리의 순위제(pecking order)를 방향 그래프로 옮기고, 순위 알고리즘 네 가지를 한 화면에서 비교해 보는 교육용 분석 도구
 
@@ -33,7 +33,7 @@
 
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/PopInT/primates.png" width="95%" alt="영장류 프리셋 분석 화면"></p>
+<p align="center"><img src="../../assets/R/kr/PopInT/primates.png" width="95%" alt="영장류 프리셋 분석 화면"></p>
 <p align="center"><sub>로컬에서 캡처(영장류 프리셋). 왼쪽은 개체와 인접 행렬 편집기, 가운데는 방향 그래프, 오른쪽은 서열·순환 경고·알고리즘 비교표. 비교표의 PageRank 열에 §5-③의 문제가 그대로 드러난다</sub></p>
 
 | 영역 | 기능 |

@@ -1,6 +1,6 @@
 # SunDO
 
-<p align="center"><img src="../assets/ch/SunDO/cover.png" alt="SunDO 封面图" width="100%"></p>
+<p align="center"><img src="../../assets/R/ch/SunDO/cover.png" alt="SunDO 封面图" width="100%"></p>
 
 > 把学生会自律生活部的督导记录从纸面搬到线上的学校专用 PWA。不设服务器，仅靠 Firestore 安全规则强制执行权限，并用变异反向验证证明了这些规则确实会拒绝请求
 
@@ -36,7 +36,7 @@
 
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/ch/SunDO/login.png" width="36%" alt="SunDO 登录界面"></p>
+<p align="center"><img src="../../assets/R/ch/SunDO/login.png" width="36%" alt="SunDO 登录界面"></p>
 <p align="center"><sub>已部署站点的登录界面。登录后的界面包含真实的学生信息，因此未收录。</sub></p>
 
 ### 已实现功能

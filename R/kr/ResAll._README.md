@@ -1,6 +1,6 @@
 # ResAll.
 
-<p align="center"><img src="../assets/kr/ResAll/cover.png" alt="ResAll. 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/ResAll/cover.png" alt="ResAll. 대표 이미지" width="100%"></p>
 
 > "한정된 복지 예산을 누구에게 줄 것인가"를 코스타리카 가구 빈곤 데이터의 분류 문제로 만든 Orange 탐구. 모델 세 개의 성능과 함께, 추가로 설치한 Fairness 애드온으로 가구주 성별·지역에 대한 공정성을 감사했다
 
@@ -38,7 +38,7 @@
 
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/ResAll/workflow.png" width="85%" alt="Orange 워크플로우"></p>
+<p align="center"><img src="../../assets/R/kr/ResAll/workflow.png" width="85%" alt="Orange 워크플로우"></p>
 <p align="center"><sub>작업 당시 캡처한 Orange 워크플로우. 위쪽 줄이 전처리, 가운데가 학습·평가, 왼쪽 아래가 Fairness 애드온(Dataset Bias, Reweighing → Weighted Logistic Regression)</sub></p>
 
 ### 전처리
@@ -86,7 +86,7 @@
 
 ### 정량적 성과
 
-<p align="center"><img src="../assets/kr/ResAll/results.png" width="95%" alt="성능과 공정성 비교"></p>
+<p align="center"><img src="../../assets/R/kr/ResAll/results.png" width="95%" alt="성능과 공정성 비교"></p>
 <p align="center"><sub>Test and Score 캡처의 수치로 다시 그린 그래프. 점선은 모델 없이 데이터에서 잰 성별 DI(0.903)</sub></p>
 
 **테스트 891가구, 클래스 평균**

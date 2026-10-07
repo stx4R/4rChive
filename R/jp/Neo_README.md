@@ -1,6 +1,6 @@
 # Neo
 
-<p align="center"><img src="../assets/jp/Neo/cover.png" alt="Neo のメイン画像" width="100%"></p>
+<p align="center"><img src="../../assets/R/jp/Neo/cover.png" alt="Neo のメイン画像" width="100%"></p>
 
 > 海外の輸出規制を「この法律が変わった」ではなく「だからあなたはこれをやるべきだ」に変換する PWA。法令61件・実行項目174件を人の手で相互検証して収録し、インストール後はネットワークが切れてもすべての画面が開く
 
@@ -38,10 +38,10 @@
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
 <p align="center">
-  <img src="../assets/jp/Neo/home.png" width="24%" alt="ホーム">
-  <img src="../assets/jp/Neo/laws.png" width="24%" alt="規制一覧">
-  <img src="../assets/jp/Neo/detail.png" width="24%" alt="法令詳細">
-  <img src="../assets/jp/Neo/map.png" width="24%" alt="地図">
+  <img src="../../assets/R/jp/Neo/home.png" width="24%" alt="ホーム">
+  <img src="../../assets/R/jp/Neo/laws.png" width="24%" alt="規制一覧">
+  <img src="../../assets/R/jp/Neo/detail.png" width="24%" alt="法令詳細">
+  <img src="../../assets/R/jp/Neo/map.png" width="24%" alt="地図">
 </p>
 <p align="center"><sub>ローカルビルドでキャプチャ。リポジトリに含まれるサンプル企業（ハンマッ食品、韓国 → ベトナム、食品・飲料）で設定した状態。左からホーム · 規制一覧 · 法令詳細 · 地図</sub></p>
 

@@ -1,6 +1,6 @@
 # PigScape.
 
-<p align="center"><img src="../assets/jp/PigScape/cover.png" alt="PigScape. 代表画像" width="100%"></p>
+<p align="center"><img src="../../assets/R/jp/PigScape/cover.png" alt="PigScape. 代表画像" width="100%"></p>
 
 > 基礎代謝量の計算、ダイエットの常識クイズ、個人の記録画面をまとめたダイエット支援Web「돼탈출」（「ブタ脱出」の意）をチームプロジェクトとして企画し、技術パートで3回にわたって作り直したプロジェクト
 
@@ -33,7 +33,7 @@
 
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/jp/PigScape/home.png" width="80%" alt="「돼탈출」のホーム"></p>
+<p align="center"><img src="../../assets/R/jp/PigScape/home.png" width="80%" alt="「돼탈출」のホーム"></p>
 <p align="center"><sub>ローカルでキャプチャ（3次 ReReWork）。BMIの区分別カード3枚は、マウスを乗せるか押すと裏返り、区分ごとの運動のヒントを表示する</sub></p>
 
 | ページ | 機能 |
@@ -45,7 +45,7 @@
 | マイページ | ログイン後のダッシュボード：BMI推移のグラフ、健康指標、今日の目標の進捗、達成バッジ |
 | プレミアム | 3種類のサブスクリプションプランと、購読料の一部を賞金に回すチャレンジの構想 |
 
-<p align="center"><img src="../assets/jp/PigScape/bmr.png" width="80%" alt="BMRの計算結果"></p>
+<p align="center"><img src="../../assets/R/jp/PigScape/bmr.png" width="80%" alt="BMRの計算結果"></p>
 <p align="center"><sub>BMRの計算結果（入力例：男性 · 17歳 · 175 cm · 72 kg）。バーの3区分と2本の矢印で、年代平均との差を示す</sub></p>
 
 ### BMRの計算方法
@@ -127,7 +127,7 @@
 | 公開URL | （要確認） |
 | 成果物 | 静的Web 6ページ（ReReWork）、Flask版2種、ロゴ・運動動画8本、ページごとの企画仕様 |
 
-<p align="center"><img src="../assets/jp/PigScape/quiz.png" width="48%" alt="「돼지니어스」の結果"> <img src="../assets/jp/PigScape/mypage.png" width="48%" alt="マイページ"></p>
+<p align="center"><img src="../../assets/R/jp/PigScape/quiz.png" width="48%" alt="「돼지니어스」の結果"> <img src="../../assets/R/jp/PigScape/mypage.png" width="48%" alt="マイページ"></p>
 <p align="center"><sub>左：「돼지니어스」の結果（設問ごとの正解・解説）。右：マイページのダッシュボード（固定のモックデータ。キャプチャ時に名前は汎用の「ユーザー」表記に置き換えた）</sub></p>
 
 ---

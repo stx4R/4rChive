@@ -1,6 +1,6 @@
 # BoardinG
 
-<p align="center"><img src="../assets/ch/BoardinG/cover.png" alt="BoardinG 封面图" width="100%"></p>
+<p align="center"><img src="../../assets/R/ch/BoardinG/cover.png" alt="BoardinG 封面图" width="100%"></p>
 
 > 用一个对通道物理、行李安放乃至座位让行都做了建模的基于智能体的模拟器，实验“让乘客最快登上飞机和火车的顺序是什么”的项目
 
@@ -32,8 +32,8 @@
 
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/ch/BoardinG/run.png" width="90%" alt="登机进行中的画面"></p>
-<p align="center"><img src="../assets/ch/BoardinG/compare.png" width="70%" alt="算法 30 次比较结果"></p>
+<p align="center"><img src="../../assets/R/ch/BoardinG/run.png" width="90%" alt="登机进行中的画面"></p>
+<p align="center"><img src="../../assets/R/ch/BoardinG/compare.png" width="70%" alt="算法 30 次比较结果"></p>
 <p align="center"><sub>本地截图。上：随机登机以 60 倍速回放中（通道移动、安放行李、座位让行以颜色区分，下方是就座曲线和通道拥堵热力图）。下：“全部比较”重复 30 次的结果</sub></p>
 
 ### 建模了什么

@@ -1,6 +1,6 @@
 # AGDecision.
 
-<p align="center"><img src="../assets/kr/AGDecision/cover.png" alt="AGDecision. 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/AGDecision/cover.png" alt="AGDecision. 대표 이미지" width="100%"></p>
 
 > "알고리즘 기반 의사결정은 정말 객관적인가"를 질문지(15명)와 면접(6명)으로 검증한 사회·문화 탐구. 알고리즘이 무엇을 차별하는지보다, 사람들이 그 판정을 왜 의심 없이 받아들이는지에 초점을 맞췄다
 
@@ -74,7 +74,7 @@
 
 ### 정량적 성과
 
-<p align="center"><img src="../assets/kr/AGDecision/findings.png" width="95%" alt="인식 문항과 영역별 신뢰도"></p>
+<p align="center"><img src="../../assets/R/kr/AGDecision/findings.png" width="95%" alt="인식 문항과 영역별 신뢰도"></p>
 <p align="center"><sub>보고서 수치로 다시 그린 그래프. 왼쪽은 객관성·신뢰에 비해 이해도가 낮은 "블랙박스 신뢰", 오른쪽은 재범 예측이 채용·대출·입시보다 높은 "고위험 위임"</sub></p>
 
 | 패턴 | 근거 |

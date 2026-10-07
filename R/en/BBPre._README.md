@@ -1,6 +1,6 @@
 # BBPre.
 
-<p align="center"><img src="../assets/en/BBPre/cover.png" alt="BBPre. cover image" width="100%"></p>
+<p align="center"><img src="../../assets/R/en/BBPre/cover.png" alt="BBPre. cover image" width="100%"></p>
 
 > A machine learning inquiry that used KBO and MLB game data to predict "which games draw the crowds." It was validated on a temporal holdout that kept the entire first half of 2026 separate, and it found the point (truncation) where the nature of the prediction problem changes in a season where sellouts have become routine
 
@@ -87,7 +87,7 @@ There was one rule: **use only information a marketing manager could know before
 
 ### Quantitative Results
 
-<p align="center"><img src="../assets/en/BBPre/results.png" width="95%" alt="R² by model and feature importance"></p>
+<p align="center"><img src="../../assets/R/en/BBPre/results.png" width="95%" alt="R² by model and feature importance"></p>
 <p align="center"><sub>Graphs redrawn from the figures in the original report</sub></p>
 
 **KBO (training 2023–2025, test on 424 games from the first half of 2026)**

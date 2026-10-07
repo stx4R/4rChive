@@ -1,6 +1,6 @@
 # Sirius
 
-<p align="center"><img src="../assets/kr/Sirius/cover.png" alt="Sirius 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/Sirius/cover.png" alt="Sirius 대표 이미지" width="100%"></p>
 
 > 확률과 통계를 설명문이 아니라 판정 규칙에 심은 도트 그래픽 보드게임. 밸런스는 시드 고정 몬테카를로로 검증했고 부스 노트북용 단일 exe로 배포한다
 
@@ -35,10 +35,10 @@
 
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/Sirius/game.png" width="90%" alt="플레이 화면"></p>
+<p align="center"><img src="../../assets/R/kr/Sirius/game.png" width="90%" alt="플레이 화면"></p>
 <p align="center">
-  <img src="../assets/kr/Sirius/wager.png" width="49%" alt="ORION'S WAGER 예측 베팅">
-  <img src="../assets/kr/Sirius/report-round1.png" width="49%" alt="CONSTELLATION LOG 통계 리포트">
+  <img src="../../assets/R/kr/Sirius/wager.png" width="49%" alt="ORION'S WAGER 예측 베팅">
+  <img src="../../assets/R/kr/Sirius/report-round1.png" width="49%" alt="CONSTELLATION LOG 통계 리포트">
 </p>
 <p align="center"><sub>저장소의 자동 스크린샷 도구로 로컬에서 캡처(시드 고정). 위: 플레이 화면, 아래 왼쪽: 예측 베팅, 오른쪽: 주기 종료 통계 리포트</sub></p>
 

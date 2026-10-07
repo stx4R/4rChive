@@ -1,6 +1,6 @@
 # Fly
 
-<p align="center"><img src="../assets/ch/Fly/cover.png" alt="Fly 封面图" width="100%"></p>
+<p align="center"><img src="../../assets/R/ch/Fly/cover.png" alt="Fly 封面图" width="100%"></p>
 
 > 以果蝇脑连接组（hemibrain）的布线为约束，教一个网络玩俄罗斯方块对战，并把结果公开到网页上，让人可以直接与之较量的研究型项目
 
@@ -41,7 +41,7 @@
 
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/ch/Fly/versus.png" width="90%" alt="人 vs 果蝇对战画面"></p>
+<p align="center"><img src="../../assets/R/ch/Fly/versus.png" width="90%" alt="人 vs 果蝇对战画面"></p>
 <p align="center"><sub>截自已部署的网站。左边是人，右边是训练好的 C0 模型，使用同一个引擎和同样的方块顺序。右侧的 KEYS·LOG 把果蝇选择的落点反推成按键输入显示出来</sub></p>
 
 ### 连接组提取（第 1 阶段）
@@ -70,7 +70,7 @@
 
 ### 对战网页（第 8 阶段）
 
-<p align="center"><img src="../assets/ch/Fly/decision.png" width="90%" alt="决策探索画面"></p>
+<p align="center"><img src="../../assets/R/ch/Fly/decision.png" width="90%" alt="决策探索画面"></p>
 <p align="center"><sub>决策探索。把一步的 51 个候选输入网络后得到的 107 个 DN 窗口平均（中间），以及连接模型排名与教师排名的 bump chart（右侧）</sub></p>
 
 - **对战**：人用键盘操作，果蝇每隔 150 ms 落一块。推理每个方块只做一次，在 worker 中异步运行。
@@ -90,7 +90,7 @@
 
 ### 定量成果
 
-<p align="center"><img src="../assets/ch/Fly/compare.png" width="90%" alt="条件比较画面"></p>
+<p align="center"><img src="../../assets/R/ch/Fly/compare.png" width="90%" alt="条件比较画面"></p>
 <p align="center"><sub>条件比较。对局指标并列展示果蝇、教师和随机，排序指标并列展示训练前、训练后和偶然水平</sub></p>
 
 **最终模型 C0（第 7 阶段 A-4′，测试集 1,453 个决策 · 平均 40.6 个候选，对局 20 局 × 1000 个方块 · 包含垃圾行注入）**

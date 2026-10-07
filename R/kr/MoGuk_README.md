@@ -1,6 +1,6 @@
 # MoGuk
 
-<p align="center"><img src="../assets/kr/MoGuk/cover.png" alt="MoGuk 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/MoGuk/cover.png" alt="MoGuk 대표 이미지" width="100%"></p>
 
 > 의원 130명이 참여한 제3회 오량모의국회의 가입·전자투표·전광판·운영 도구를 하나로 묶은 공식 웹 서비스
 
@@ -33,10 +33,10 @@
 
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/MoGuk/home.png" width="90%" alt="메인 화면"></p>
+<p align="center"><img src="../../assets/R/kr/MoGuk/home.png" width="90%" alt="메인 화면"></p>
 <p align="center">
-  <img src="../assets/kr/MoGuk/vote.png" width="49%" alt="안건 투표 화면">
-  <img src="../assets/kr/MoGuk/board.png" width="49%" alt="표결 전광판">
+  <img src="../../assets/R/kr/MoGuk/vote.png" width="49%" alt="안건 투표 화면">
+  <img src="../../assets/R/kr/MoGuk/board.png" width="49%" alt="표결 전광판">
 </p>
 <p align="center"><sub>로컬 빌드로 캡처. 투표·전광판 화면은 Supabase 대신 가짜 데이터를 넣어 렌더링했다(안건명·의원명은 예시).</sub></p>
 

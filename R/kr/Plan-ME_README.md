@@ -1,6 +1,6 @@
 # Plan-ME
 
-<p align="center"><img src="../assets/kr/Plan-ME/cover.png" alt="Plan-ME 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/Plan-ME/cover.png" alt="Plan-ME 대표 이미지" width="100%"></p>
 
 > 학교 이메일로 들어가 마감 기한이 있는 할 일을 관리하고 해시 체인으로 메시지 위변조 개념을 체험하는 학생용 일정 앱 「WTD」
 
@@ -33,8 +33,8 @@
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
 <p align="center">
-  <img src="../assets/kr/Plan-ME/todo.png" width="36%" alt="일정 관리 탭">
-  <img src="../assets/kr/Plan-ME/hash-chain.png" width="36%" alt="해시 체인 메신저의 위변조 시뮬레이션">
+  <img src="../../assets/R/kr/Plan-ME/todo.png" width="36%" alt="일정 관리 탭">
+  <img src="../../assets/R/kr/Plan-ME/hash-chain.png" width="36%" alt="해시 체인 메신저의 위변조 시뮬레이션">
 </p>
 <p align="center"><sub>로컬에서 실행해 캡처. 로고 이미지는 저장소에 포함되지 않아 가렸다.</sub></p>
 

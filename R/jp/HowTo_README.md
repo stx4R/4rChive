@@ -1,6 +1,6 @@
 # HowTo
 
-<p align="center"><img src="../assets/jp/HowTo/cover.png" alt="HowTo のメイン画像" width="100%"></p>
+<p align="center"><img src="../../assets/R/jp/HowTo/cover.png" alt="HowTo のメイン画像" width="100%"></p>
 
 > ゴミの写真を1枚アップロードすると素材を判別し、分別の手順と動画を見せてくれる Web アプリ「어떻게?」（「どうする？」の意）
 
@@ -33,9 +33,9 @@
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
 <p align="center">
-  <img src="../assets/jp/HowTo/upload.png" width="32%" alt="写真のアップロード画面">
-  <img src="../assets/jp/HowTo/residue-check.png" width="32%" alt="残留物の確認ポップアップ">
-  <img src="../assets/jp/HowTo/result.png" width="32%" alt="排出方法の案内画面">
+  <img src="../../assets/R/jp/HowTo/upload.png" width="32%" alt="写真のアップロード画面">
+  <img src="../../assets/R/jp/HowTo/residue-check.png" width="32%" alt="残留物の確認ポップアップ">
+  <img src="../../assets/R/jp/HowTo/result.png" width="32%" alt="排出方法の案内画面">
 </p>
 
 ### 実装した機能

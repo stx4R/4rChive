@@ -1,6 +1,6 @@
 # Neo
 
-<p align="center"><img src="../assets/ch/Neo/cover.png" alt="Neo 封面图" width="100%"></p>
+<p align="center"><img src="../../assets/R/ch/Neo/cover.png" alt="Neo 封面图" width="100%"></p>
 
 > 把海外出口规制从“这条法律变了”转换成“所以你需要做这件事”的 PWA。61条法规、174项执行事项均经人工交叉核验后录入，安装后即使断网也能打开所有页面
 
@@ -38,10 +38,10 @@
 ## 3. 核心功能与负责工作 (Key Features & Contributions)
 
 <p align="center">
-  <img src="../assets/ch/Neo/home.png" width="24%" alt="首页">
-  <img src="../assets/ch/Neo/laws.png" width="24%" alt="规制列表">
-  <img src="../assets/ch/Neo/detail.png" width="24%" alt="法规详情">
-  <img src="../assets/ch/Neo/map.png" width="24%" alt="地图">
+  <img src="../../assets/R/ch/Neo/home.png" width="24%" alt="首页">
+  <img src="../../assets/R/ch/Neo/laws.png" width="24%" alt="规制列表">
+  <img src="../../assets/R/ch/Neo/detail.png" width="24%" alt="法规详情">
+  <img src="../../assets/R/ch/Neo/map.png" width="24%" alt="地图">
 </p>
 <p align="center"><sub>用本地构建截取，设置为仓库中自带的示例公司（Hanmat 食品，韩国 → 越南，食品·饮料）。从左到右依次为首页 · 规制列表 · 法规详情 · 地图</sub></p>
 

@@ -1,6 +1,6 @@
 # ResAll.
 
-<p align="center"><img src="../assets/jp/ResAll/cover.png" alt="ResAll. のメイン画像" width="100%"></p>
+<p align="center"><img src="../../assets/R/jp/ResAll/cover.png" alt="ResAll. のメイン画像" width="100%"></p>
 
 > 「限られた福祉予算を誰に配るか」を、コスタリカの世帯貧困データの分類問題に置き換えた Orange による探究。3つのモデルの性能に加え、追加で導入した Fairness アドオンで、世帯主の性別・地域に対する公平性を監査した
 
@@ -38,7 +38,7 @@
 
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/jp/ResAll/workflow.png" width="85%" alt="Orange のワークフロー"></p>
+<p align="center"><img src="../../assets/R/jp/ResAll/workflow.png" width="85%" alt="Orange のワークフロー"></p>
 <p align="center"><sub>作業当時にキャプチャした Orange のワークフロー。上の列が前処理、中央が学習・評価、左下が Fairness アドオン（Dataset Bias、Reweighing → Weighted Logistic Regression）</sub></p>
 
 ### 前処理
@@ -86,7 +86,7 @@
 
 ### 定量的成果
 
-<p align="center"><img src="../assets/jp/ResAll/results.png" width="95%" alt="性能と公平性の比較"></p>
+<p align="center"><img src="../../assets/R/jp/ResAll/results.png" width="95%" alt="性能と公平性の比較"></p>
 <p align="center"><sub>Test and Score のキャプチャの数値をもとに描き直したグラフ。点線は、モデルを使わずにデータから測った性別の DI（0.903）</sub></p>
 
 **テスト891世帯、クラス平均**

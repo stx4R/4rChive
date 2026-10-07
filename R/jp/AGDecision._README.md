@@ -1,6 +1,6 @@
 # AGDecision.
 
-<p align="center"><img src="../assets/jp/AGDecision/cover.png" alt="AGDecision. 代表画像" width="100%"></p>
+<p align="center"><img src="../../assets/R/jp/AGDecision/cover.png" alt="AGDecision. 代表画像" width="100%"></p>
 
 > 「アルゴリズムに基づく意思決定は本当に客観的か」を質問紙（15人）と面接（6人）で検証した「社会と文化」の探究。アルゴリズムが何を差別するかよりも、人々がその判定をなぜ疑わずに受け入れるのかに焦点を当てた
 
@@ -74,7 +74,7 @@
 
 ### 定量的成果
 
-<p align="center"><img src="../assets/jp/AGDecision/findings.png" width="95%" alt="認識に関する設問と領域ごとの信頼度"></p>
+<p align="center"><img src="../../assets/R/jp/AGDecision/findings.png" width="95%" alt="認識に関する設問と領域ごとの信頼度"></p>
 <p align="center"><sub>レポートの数値をもとに描き直したグラフ。左は客観性・信頼に比べて理解度が低い「ブラックボックス信頼」、右は再犯予測が採用・融資・入試より高い「高リスクの委任」</sub></p>
 
 | パターン | 根拠 |

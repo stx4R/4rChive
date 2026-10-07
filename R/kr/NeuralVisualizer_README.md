@@ -1,6 +1,6 @@
 # NeuralVisualizer
 
-<p align="center"><img src="../assets/kr/NeuralVisualizer/cover.png" alt="NeuralVisualizer 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/NeuralVisualizer/cover.png" alt="NeuralVisualizer 대표 이미지" width="100%"></p>
 
 > 외부 라이브러리 없이 행렬 연산부터 역전파, 3D 투영까지 직접 구현해 브라우저에서 다층 퍼셉트론이 학습하는 모습을 네 가지 화면으로 보여 주는 교육용 도구 「NeuralViz」
 
@@ -33,8 +33,8 @@
 
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/NeuralVisualizer/train.png" width="90%" alt="XOR 학습 1500 epoch 후 결정 경계"></p>
-<p align="center"><img src="../assets/kr/NeuralVisualizer/surface.png" width="90%" alt="3D 손실 표면"></p>
+<p align="center"><img src="../../assets/R/kr/NeuralVisualizer/train.png" width="90%" alt="XOR 학습 1500 epoch 후 결정 경계"></p>
+<p align="center"><img src="../../assets/R/kr/NeuralVisualizer/surface.png" width="90%" alt="3D 손실 표면"></p>
 <p align="center"><sub>로컬에서 XOR · [4,4] · tanh · lr 0.5로 1500 epoch 학습한 뒤 캡처. 위: 결정 경계, 아래: 두 가중치 방향의 손실 표면과 학습 경로</sub></p>
 
 ### 구현 기능

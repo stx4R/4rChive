@@ -1,6 +1,6 @@
 # BBPre.
 
-<p align="center"><img src="../assets/jp/BBPre/cover.png" alt="BBPre. 代表画像" width="100%"></p>
+<p align="center"><img src="../../assets/R/jp/BBPre/cover.png" alt="BBPre. 代表画像" width="100%"></p>
 
 > KBO・MLBの試合データで「どんな試合に観客が集まるのか」を予測した機械学習の探究。2026年前半戦を完全に切り離した時間的ホールドアウトで検証し、満員が当たり前になったシーズンで予測問題の性質が変わる地点（打ち切り）を見つけた
 
@@ -87,7 +87,7 @@
 
 ### 定量的成果
 
-<p align="center"><img src="../assets/jp/BBPre/results.png" width="95%" alt="モデル別のR²と特徴量重要度"></p>
+<p align="center"><img src="../../assets/R/jp/BBPre/results.png" width="95%" alt="モデル別のR²と特徴量重要度"></p>
 <p align="center"><sub>元のレポートの数値をもとに描き直したグラフ</sub></p>
 
 **KBO（学習2023–2025、テスト2026年前半戦424試合）**

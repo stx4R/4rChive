@@ -1,6 +1,6 @@
 # Neo
 
-<p align="center"><img src="../assets/kr/Neo/cover.png" alt="Neo 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/Neo/cover.png" alt="Neo 대표 이미지" width="100%"></p>
 
 > 해외 수출 규제를 "이 법이 바뀌었다"가 아니라 "그래서 당신은 이걸 해야 한다"로 바꿔 주는 PWA. 법령 61건·실행 항목 174건을 사람이 교차검증해 넣었고, 설치 후에는 네트워크가 끊겨도 모든 화면이 열린다
 
@@ -38,10 +38,10 @@
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
 <p align="center">
-  <img src="../assets/kr/Neo/home.png" width="24%" alt="홈">
-  <img src="../assets/kr/Neo/laws.png" width="24%" alt="규제 목록">
-  <img src="../assets/kr/Neo/detail.png" width="24%" alt="법령 상세">
-  <img src="../assets/kr/Neo/map.png" width="24%" alt="지도">
+  <img src="../../assets/R/kr/Neo/home.png" width="24%" alt="홈">
+  <img src="../../assets/R/kr/Neo/laws.png" width="24%" alt="규제 목록">
+  <img src="../../assets/R/kr/Neo/detail.png" width="24%" alt="법령 상세">
+  <img src="../../assets/R/kr/Neo/map.png" width="24%" alt="지도">
 </p>
 <p align="center"><sub>로컬 빌드로 캡처. 저장소에 들어 있는 예시 회사(한맛식품, 한국 → 베트남, 식품·음료)로 설정한 상태. 왼쪽부터 홈 · 규제 목록 · 법령 상세 · 지도</sub></p>
 

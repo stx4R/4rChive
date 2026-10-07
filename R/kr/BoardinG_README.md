@@ -1,6 +1,6 @@
 # BoardinG
 
-<p align="center"><img src="../assets/kr/BoardinG/cover.png" alt="BoardinG 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/BoardinG/cover.png" alt="BoardinG 대표 이미지" width="100%"></p>
 
 > "비행기와 기차에 사람을 가장 빨리 태우는 순서는 무엇인가"를 통로 물리·짐 적재·좌석 셔플까지 모델링한 에이전트 기반 시뮬레이터로 실험한 프로젝트
 
@@ -32,8 +32,8 @@
 
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/BoardinG/run.png" width="90%" alt="탑승 진행 중 화면"></p>
-<p align="center"><img src="../assets/kr/BoardinG/compare.png" width="70%" alt="알고리즘 30회 비교 결과"></p>
+<p align="center"><img src="../../assets/R/kr/BoardinG/run.png" width="90%" alt="탑승 진행 중 화면"></p>
+<p align="center"><img src="../../assets/R/kr/BoardinG/compare.png" width="70%" alt="알고리즘 30회 비교 결과"></p>
 <p align="center"><sub>로컬에서 캡처. 위: 무작위 탑승 60배속 재생 중(통로 이동·짐 적재·좌석 셔플이 색으로 구분되고 아래에 착석 곡선과 통로 혼잡 히트맵). 아래: "전체 비교하기" 30회 반복 결과</sub></p>
 
 ### 무엇을 모델링했는가

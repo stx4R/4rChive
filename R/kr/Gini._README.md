@@ -1,6 +1,6 @@
 # Gini.
 
-<p align="center"><img src="../assets/kr/Gini/cover.png" alt="Gini. 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/Gini/cover.png" alt="Gini. 대표 이미지" width="100%"></p>
 
 > 성별을 빼고 학습한 "블라인드" 소득 분류기가 성별 격차를 그대로 재현하는지 미적분으로 감사한 두 단계 탐구. 정적분으로 차별을 재는 지표를 만들고, 그 지표를 미분해 정확도와 공정성을 함께 고려한 판정 임계값을 해석적으로 구했다
 
@@ -90,7 +90,7 @@ J′(t) = Acc′(t) + 2λ Δ(t) [ f_A(t) − f_B(t) ] = 0
 
 ### 정량적 성과
 
-<p align="center"><img src="../assets/kr/Gini/phases.png" width="95%" alt="로렌츠 곡선과 정확도-공정성 프런티어"></p>
+<p align="center"><img src="../../assets/R/kr/Gini/phases.png" width="95%" alt="로렌츠 곡선과 정확도-공정성 프런티어"></p>
 <p align="center"><sub>원보고서 수치로 다시 그린 그래프. 왼쪽은 두 집단 로렌츠 곡선 사이 넓이 D, 오른쪽은 λ를 키울수록 격차와 정확도가 함께 줄어드는 프런티어</sub></p>
 
 **Phase 1**

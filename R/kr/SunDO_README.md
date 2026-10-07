@@ -1,6 +1,6 @@
 # SunDO
 
-<p align="center"><img src="../assets/kr/SunDO/cover.png" alt="SunDO 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/SunDO/cover.png" alt="SunDO 대표 이미지" width="100%"></p>
 
 > 학생회 자율생활부의 선도 기록을 종이에서 옮긴 학교 전용 PWA. 서버 없이 Firestore 보안 규칙만으로 권한을 강제하고, 그 규칙이 실제로 거부하는지를 변형 역검증으로 증명했다
 
@@ -36,7 +36,7 @@
 
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/SunDO/login.png" width="36%" alt="SunDO 로그인 화면"></p>
+<p align="center"><img src="../../assets/R/kr/SunDO/login.png" width="36%" alt="SunDO 로그인 화면"></p>
 <p align="center"><sub>배포 사이트의 로그인 화면. 로그인 이후 화면은 실제 학생 정보가 담겨 있어 싣지 않았다.</sub></p>
 
 ### 구현 기능

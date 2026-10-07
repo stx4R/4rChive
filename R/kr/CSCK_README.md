@@ -1,6 +1,6 @@
 # CSCK
 
-<p align="center"><img src="../assets/kr/CSCK/cover.png" alt="CSCK 대표 이미지" width="100%"></p>
+<p align="center"><img src="../../assets/R/kr/CSCK/cover.png" alt="CSCK 대표 이미지" width="100%"></p>
 
 > 제3회 오량모의국회 행사장 입구의 공용 태블릿에서, 처음 보는 사람도 설명 없이 3초 안에 출석을 마치도록 설계한 출석체크 키오스크
 
@@ -41,7 +41,7 @@
 
 ## 3. 핵심 기능 및 담당 업무 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/kr/CSCK/kiosk.png" width="90%" alt="출석체크 키오스크 화면"></p>
+<p align="center"><img src="../../assets/R/kr/CSCK/kiosk.png" width="90%" alt="출석체크 키오스크 화면"></p>
 <p align="center"><sub>로컬 빌드로 캡처. 명단은 가상 참가자 12명으로 바꿨다. "010-123"까지 입력한 상태로, 서버 설정이 없어 헤더에 오프라인 모드 경고가 떠 있다.</sub></p>
 
 ### 구현 기능
@@ -133,7 +133,7 @@
 | GitHub 저장소 | [stx4R/CSCK](https://github.com/stx4R/CSCK) (비공개) |
 | 배포 URL | https://stx4r.me/project/CSCK |
 
-<p align="center"><img src="../assets/kr/CSCK/unlock.png" width="70%" alt="대시보드 잠금 키패드"></p>
+<p align="center"><img src="../../assets/R/kr/CSCK/unlock.png" width="70%" alt="대시보드 잠금 키패드"></p>
 
 ### 화면 흐름
 

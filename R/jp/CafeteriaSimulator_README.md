@@ -1,6 +1,6 @@
 # CafeteriaSimulator
 
-<p align="center"><img src="../assets/jp/CafeteriaSimulator/cover.png" alt="CafeteriaSimulator カバー画像" width="100%"></p>
+<p align="center"><img src="../../assets/R/jp/CafeteriaSimulator/cover.png" alt="CafeteriaSimulator カバー画像" width="100%"></p>
 
 > サムスン HumanTech 論文で使った社会力モデルを JavaScript で実装し直して論文の基準値を再現し、大田大新高校のキャンパス全体に広げて、生徒1,020人が食堂のドア1つを通り抜ける昼休みの移動を計算する群衆シミュレーター
 
@@ -35,10 +35,10 @@
 
 ## 3. 主な機能と担当業務 (Key Features & Contributions)
 
-<p align="center"><img src="../assets/jp/CafeteriaSimulator/main.png" width="90%" alt="通路を分けて歩く、出発間隔30秒、5分時点"></p>
+<p align="center"><img src="../../assets/R/jp/CafeteriaSimulator/main.png" width="90%" alt="通路を分けて歩く、出発間隔30秒、5分時点"></p>
 <p align="center">
-  <img src="../assets/jp/CafeteriaSimulator/jam.png" width="49%" alt="出発間隔20秒、近い道、10分時点">
-  <img src="../assets/jp/CafeteriaSimulator/result.png" width="49%" alt="基本設定の結果まとめ"></p>
+  <img src="../../assets/R/jp/CafeteriaSimulator/jam.png" width="49%" alt="出発間隔20秒、近い道、10分時点">
+  <img src="../../assets/R/jp/CafeteriaSimulator/result.png" width="49%" alt="基本設定の結果まとめ"></p>
 <p align="center"><sub>ローカルビルドでキャプチャ。上：通路を分けて歩く・出発間隔30秒、5分時点（A通路191人、B通路183人）。下左：出発間隔20秒・近い道、10分時点を真上から見た様子（1,020人全員がB通路に集まり、ドア前の群衆圧力 P₉₅ は9.32）。下右：基本設定の結果まとめ（23分7秒、6回くり返しの棒グラフ）</sub></p>
 
 ### 実装した機能
